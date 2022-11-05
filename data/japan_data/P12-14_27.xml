@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ksj:Dataset gml:id="P12Dataset" xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app/KsjAppSchema-P12-v2_1.xsd">
+<gml:description>国土数値情報 観光資源（面） インスタンス文書</gml:description>
+<!-- データ提供範囲 -->
+<gml:boundedBy>
+	<gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+		<gml:lowerCorner>20.0 123.0</gml:lowerCorner>
+		<gml:upperCorner>46.0 154.0</gml:upperCorner>
+		<gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+		<gml:endPosition indeterminatePosition="unknown"/>
+	</gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Surface gml:id="pa_00000_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00000_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00001_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00001_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00002_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00002_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Curve gml:id="pc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.65256083 135.51696269
+34.65283572 135.51717328
+34.65284658 135.51718250
+34.65285472 135.51718900
+34.65286106 135.51719606
+34.65286831 135.51720583
+34.65287603 135.51721942
+34.65288919 135.51724444
+34.65290236 135.51727272
+34.65290919 135.51728578
+34.65292553 135.51731242
+34.65293958 135.51733414
+34.65295453 135.51735642
+34.65297444 135.51737650
+34.65299933 135.51740089
+34.65309158 135.51747728
+34.65320731 135.51755842
+34.65341603 135.51767722
+34.65387047 135.51792497
+34.65415867 135.51808150
+34.65440756 135.51821586
+34.65440978 135.51820986
+34.65446258 135.51822428
+34.65452172 135.51824467
+34.65454517 135.51824603
+34.65456439 135.51824686
+34.65459872 135.51824836
+34.65464028 135.51825019
+34.65472631 135.51825403
+34.65496772 135.51826497
+34.65513722 135.51827286
+34.65538133 135.51828369
+34.65572856 135.51829556
+34.65601306 135.51830831
+34.65617247 135.51831572
+34.65617353 135.51829297
+34.65617950 135.51829322
+34.65627514 135.51711500
+34.65628644 135.51692333
+34.65629922 135.51669342
+34.65613700 135.51668889
+34.65594314 135.51668183
+34.65567725 135.51669972
+34.65570242 135.51620068
+34.65555136 135.51620953
+34.65554232 135.51571465
+34.65547085 135.51571751
+34.65547370 135.51548308
+34.65566812 135.51548308
+34.65566742 135.51535244
+34.65566931 135.51526242
+34.65566253 135.51525700
+34.65556111 135.51526033
+34.65555664 135.51526853
+34.65547653 135.51527292
+34.65545086 135.51530461
+34.65512408 135.51531469
+34.65507686 135.51533678
+34.65456303 135.51534794
+34.65430831 135.51533581
+34.65430861 135.51540944
+34.65400214 135.51542486
+34.65399276 135.51518860
+34.65367828 135.51520576
+34.65366112 135.51476548
+34.65359537 135.51476548
+34.65359537 135.51473689
+34.65341525 135.51474547
+34.65275000 135.51646797
+34.65270850 135.51657456
+34.65256083 135.51696269
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00001_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.61207083 135.49118606
+34.61201678 135.49117408
+34.61170514 135.49110283
+34.61159289 135.49110622
+34.61152838 135.49117930
+34.61123962 135.49191405
+34.61117756 135.49193583
+34.61111667 135.49192258
+34.61107606 135.49191464
+34.61106747 135.49190694
+34.61106614 135.49198033
+34.61105944 135.49225328
+34.61105139 135.49270147
+34.61114814 135.49270598
+34.61115671 135.49290897
+34.61120532 135.49296615
+34.61125106 135.49319487
+34.61127107 135.49330065
+34.61124820 135.49353794
+34.61104521 135.49354652
+34.61104256 135.49401639
+34.61105986 135.49411397
+34.61132617 135.49418217
+34.61139986 135.49423733
+34.61146275 135.49426186
+34.61150197 135.49427714
+34.61153486 135.49428994
+34.61181903 135.49433347
+34.61194600 135.49440850
+34.61207758 135.49451347
+34.61223950 135.49464442
+34.61234986 135.49473589
+34.61241453 135.49478839
+34.61244369 135.49475114
+34.61254283 135.49452975
+34.61256633 135.49454050
+34.61256500 135.49454322
+34.61257525 135.49454936
+34.61270017 135.49441544
+34.61277681 135.49442042
+34.61286928 135.49443078
+34.61300681 135.49444628
+34.61312408 135.49446739
+34.61317144 135.49447256
+34.61319169 135.49446425
+34.61321414 135.49444231
+34.61322533 135.49442317
+34.61328567 135.49430011
+34.61337961 135.49412508
+34.61351786 135.49411331
+34.61362014 135.49410350
+34.61384217 135.49407772
+34.61398642 135.49405992
+34.61409536 135.49404481
+34.61411233 135.49404197
+34.61413644 135.49400911
+34.61415200 135.49394442
+34.61419086 135.49378578
+34.61421717 135.49367333
+34.61423111 135.49362183
+34.61384983 135.49349131
+34.61398772 135.49294100
+34.61410431 135.49253445
+34.61390132 135.49245440
+34.61396528 135.49224836
+34.61382389 135.49202058
+34.61370617 135.49189864
+34.61371731 135.49186311
+34.61372836 135.49181672
+34.61372592 135.49176767
+34.61372350 135.49173225
+34.61372592 135.49176767
+34.61372836 135.49181672
+34.61371731 135.49186311
+34.61370617 135.49189864
+34.61367931 135.49194242
+34.61362994 135.49199722
+34.61358731 135.49204111
+34.61357831 135.49204117
+34.61354892 135.49201953
+34.61354422 135.49197322
+34.61356208 135.49193494
+34.61358442 135.49188575
+34.61360219 135.49182567
+34.61361994 135.49176011
+34.61363578 135.49169892
+34.61359858 135.49168550
+34.61333292 135.49159150
+34.61327439 135.49157006
+34.61294297 135.49144311
+34.61266303 135.49133089
+34.61263967 135.49132461
+34.61258483 135.49130989
+34.61228131 135.49123617
+34.61207083 135.49118606
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00002_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.69077825 135.52249597
+34.69077942 135.52251519
+34.69076822 135.52251656
+34.69076939 135.52253489
+34.69010353 135.52262122
+34.68996878 135.52267394
+34.68954447 135.52272867
+34.68932053 135.52273856
+34.68931147 135.52271167
+34.68930200 135.52268897
+34.68928864 135.52266683
+34.68927994 135.52265550
+34.68927053 135.52264419
+34.68925356 135.52263258
+34.68923778 135.52262661
+34.68921992 135.52261933
+34.68921764 135.52261700
+34.68919622 135.52238019
+34.68911689 135.52161972
+34.68821172 135.52037531
+34.68810647 135.52024497
+34.68810086 135.52023806
+34.68809697 135.52023358
+34.68807122 135.52021769
+34.68774933 135.52022947
+34.68728658 135.52038286
+34.68721064 135.52042303
+34.68713553 135.52044831
+34.68710325 135.52045917
+34.68668036 135.52060147
+34.68660997 135.52060492
+34.68625650 135.52071633
+34.68610792 135.52076322
+34.68579008 135.52086686
+34.68567622 135.52090469
+34.68546069 135.52097611
+34.68529986 135.52102958
+34.68521658 135.52105678
+34.68476056 135.52120675
+34.68473039 135.52121672
+34.68468267 135.52123064
+34.68434406 135.52132264
+34.68428553 135.52133825
+34.68397211 135.52142297
+34.68396403 135.52142683
+34.68395458 135.52143400
+34.68394111 135.52144881
+34.68393392 135.52145483
+34.68392808 135.52145817
+34.68373131 135.52151114
+34.68353544 135.52156517
+34.68345933 135.52158469
+34.68343728 135.52159303
+34.68333217 135.52167983
+34.68331108 135.52171106
+34.68327794 135.52176200
+34.68324078 135.52182442
+34.68320989 135.52187806
+34.68309931 135.52207078
+34.68295875 135.52232642
+34.68292147 135.52238794
+34.68290458 135.52241622
+34.68286258 135.52249111
+34.68282303 135.52256000
+34.68264592 135.52287269
+34.68248778 135.52315108
+34.68246219 135.52320492
+34.68245225 135.52323000
+34.68243083 135.52328653
+34.68240992 135.52336258
+34.68239228 135.52345003
+34.68218525 135.52575478
+34.68217142 135.52591144
+34.68226278 135.52591758
+34.68226089 135.52601581
+34.68231503 135.52602914
+34.68231289 135.52605644
+34.68230869 135.52613558
+34.68232672 135.52613819
+34.68229936 135.52663492
+34.68229061 135.52670044
+34.68228178 135.52675233
+34.68226633 135.52683428
+34.68223333 135.52703908
+34.68222689 135.52712097
+34.68222469 135.52714281
+34.68224436 135.52720719
+34.68220883 135.52720125
+34.68205650 135.52718431
+34.68205061 135.52725544
+34.68204922 135.52727247
+34.68203836 135.52738050
+34.68202169 135.52754183
+34.68200206 135.52769411
+34.68197342 135.52787808
+34.68195089 135.52799508
+34.68194592 135.52801911
+34.68191261 135.52817953
+34.68186828 135.52838369
+34.68182469 135.52857683
+34.68176972 135.52882669
+34.68172839 135.52901550
+34.68170836 135.52910325
+34.68168569 135.52920275
+34.68167633 135.52924500
+34.68166889 135.52946953
+34.68166864 135.52949800
+34.68166594 135.52975011
+34.68166469 135.52985525
+34.68166453 135.52987586
+34.68166186 135.53031608
+34.68165933 135.53053625
+34.68165606 135.53088764
+34.68165503 135.53116731
+34.68165189 135.53135108
+34.68165128 135.53146975
+34.68164817 135.53181000
+34.68164553 135.53205778
+34.68164350 135.53235975
+34.68164317 135.53240608
+34.68163689 135.53336053
+34.68166411 135.53339925
+34.68169956 135.53344967
+34.68172211 135.53348172
+34.68207514 135.53350922
+34.68232081 135.53352897
+34.68235800 135.53353194
+34.68251342 135.53354442
+34.68300217 135.53358214
+34.68321806 135.53359858
+34.68333333 135.53360761
+34.68389347 135.53365144
+34.68449017 135.53369842
+34.68455489 135.53370356
+34.68615836 135.53383083
+34.68640636 135.53385203
+34.68645233 135.53385600
+34.68785318 135.53398683
+34.68812914 135.53400856
+34.68818667 135.53401378
+34.68863405 135.53404202
+34.68871167 135.53406322
+34.68946053 135.53425661
+34.68950939 135.53426981
+34.68950628 135.53430431
+34.68951711 135.53430786
+34.68957128 135.53432283
+34.68962892 135.53433776
+34.68981689 135.53226778
+34.68982575 135.53222953
+34.68983908 135.53218033
+34.68985019 135.53213661
+34.68992356 135.53192689
+34.68997053 135.53179497
+34.69072847 135.52957214
+34.69073286 135.52953936
+34.69072597 135.52950942
+34.69071461 135.52948219
+34.69070103 135.52946589
+34.69068522 135.52945781
+34.69068522 135.52943847
+34.69068242 135.52931319
+34.69071839 135.52929117
+34.69073853 135.52925283
+34.69074514 135.52922006
+34.69074725 135.52918186
+34.69074258 135.52914094
+34.69073078 135.52899639
+34.69070231 135.52863367
+34.69068100 135.52836639
+34.69067139 135.52821364
+34.69066875 135.52811269
+34.69067519 135.52803081
+34.69068614 135.52794614
+34.69069936 135.52787239
+34.69070822 135.52782869
+34.69081161 135.52756694
+34.69084433 135.52747592
+34.69086669 135.52743214
+34.69118636 135.52675636
+34.69119750 135.52672356
+34.69121308 135.52666889
+34.69149947 135.52555125
+34.69151283 135.52551572
+34.69151942 135.52546383
+34.69151931 135.52541472
+34.69138186 135.52484794
+34.69135447 135.52476078
+34.69129061 135.52456197
+34.69118342 135.52423786
+34.69115386 135.52417256
+34.69106703 135.52387017
+34.69096417 135.52350242
+34.69093661 135.52337158
+34.69092081 135.52336078
+34.69088886 135.52326544
+34.69085456 135.52313467
+34.69082017 135.52298753
+34.69079483 135.52284850
+34.69077858 135.52272308
+34.69082097 135.52261369
+34.69080928 135.52250736
+34.69080722 135.52249119
+34.69077825 135.52249597
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Point gml:id="n00000">
+	<gml:pos>34.56361387 135.48730182</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00001">
+	<gml:pos>34.65380693 135.51647576</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00002">
+	<gml:pos>34.61314889 135.49304170</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00003">
+	<gml:pos>34.68630392 135.52588038</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00004">
+	<gml:pos>34.66855200 135.50271600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00005">
+	<gml:pos>34.69354098 135.50402396</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00006">
+	<gml:pos>34.80954545 135.53245423</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00007">
+	<gml:pos>34.69602600 135.51266500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00008">
+	<gml:pos>34.46121317 135.37813251</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00009">
+	<gml:pos>34.81278760 135.52986884</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00010">
+	<gml:pos>34.66544200 135.43233800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00011">
+	<gml:pos>34.68631700 135.51971700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00012">
+	<gml:pos>34.66753891 135.50865322</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00013">
+	<gml:pos>34.66498400 135.50365600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00014">
+	<gml:pos>34.56260400 135.60921200</gml:pos>
+</gml:Point>
+<ksj:TourismResource_Surface gml:id="FL02_0000">
+	<ksj:turismResorceName>四天王寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27109</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>大阪市天王寺区四天王寺1-11-8</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00000_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0001">
+	<ksj:turismResorceName>住吉大社</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27120</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>大阪市住吉区住吉2-9</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00001_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0002">
+	<ksj:turismResorceName>大阪城（大阪城公園）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27128</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>城跡・城郭・宮殿</ksj:turismResorceKindName>
+	<ksj:address>大阪市中央区大阪城1-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00002_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Point gml:id="FL04_0000">
+	<ksj:turismResorceName>百舌鳥・古市古墳群（仁徳天皇陵、応神天皇陵）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27141</ksj:administartiveAreaCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27222</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>史跡</ksj:turismResorceKindName>
+	<ksj:address>堺市　および　羽曳野市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00000"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0001">
+	<ksj:turismResorceName>四天王寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27109</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>大阪市天王寺区四天王寺1-11-8</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00001"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0002">
+	<ksj:turismResorceName>住吉大社</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27120</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>大阪市住吉区住吉2-9</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00002"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0003">
+	<ksj:turismResorceName>大阪城（大阪城公園）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27128</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>城跡・城郭・宮殿</ksj:turismResorceKindName>
+	<ksj:address>大阪市中央区大阪城1-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00003"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0004">
+	<ksj:turismResorceName>道頓堀</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27128</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>集落・街</ksj:turismResorceKindName>
+	<ksj:address>大阪市中央区</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00004"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0005">
+	<ksj:turismResorceName>大阪市中央公会堂</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27127</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>建造物</ksj:turismResorceKindName>
+	<ksj:address>大阪市北区中之島1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00005"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0006">
+	<ksj:turismResorceName>太陽の塔</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>建造物</ksj:turismResorceKindName>
+	<ksj:address>吹田市千里万博公園1-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00006"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0007">
+	<ksj:turismResorceName>天神祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27127</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>年中行事</ksj:turismResorceKindName>
+	<ksj:address>大阪市北区天神橋2-1-8</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00007"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0008">
+	<ksj:turismResorceName>岸和田地車祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>年中行事</ksj:turismResorceKindName>
+	<ksj:address>岸和田市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00008"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0009">
+	<ksj:turismResorceName>国立民族学博物館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>博物館・美術館</ksj:turismResorceKindName>
+	<ksj:address>吹田市千里万博公園10-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00009"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0010">
+	<ksj:turismResorceName>ユニバーサル・スタジオ・ジャパン</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27104</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>テーマ・公園テーマ施設</ksj:turismResorceKindName>
+	<ksj:address>大阪市此花区此花区桜島2-1-33</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00010"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0011">
+	<ksj:turismResorceName>大阪のたこ焼き</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27128</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>食</ksj:turismResorceKindName>
+	<ksj:address>大阪市中央区</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00011"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0012">
+	<ksj:turismResorceName>国立文楽劇場で上演される文楽</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27128</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>芸能・興行・イベント</ksj:turismResorceKindName>
+	<ksj:address>大阪市中央区日本橋1-12-10</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00012"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0013">
+	<ksj:turismResorceName>なんばグランド花月（ＮＧＫ）で上演されるお笑い</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27128</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>芸能・興行・イベント</ksj:turismResorceKindName>
+	<ksj:address>大阪市中央区難波千日前11</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00013"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0014">
+	<ksj:turismResorceName>百舌鳥・古市古墳群（仁徳天皇陵、応神天皇陵）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">27</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27141</ksj:administartiveAreaCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">27222</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>史跡</ksj:turismResorceKindName>
+	<ksj:address>堺市　および　羽曳野市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00014"/>
+</ksj:TourismResource_Point>
+</ksj:Dataset>

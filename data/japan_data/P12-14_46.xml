@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ksj:Dataset gml:id="P12Dataset" xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app/KsjAppSchema-P12-v2_1.xsd">
+<gml:description>国土数値情報 観光資源（面） インスタンス文書</gml:description>
+<!-- データ提供範囲 -->
+<gml:boundedBy>
+	<gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+		<gml:lowerCorner>20.0 123.0</gml:lowerCorner>
+		<gml:upperCorner>46.0 154.0</gml:upperCorner>
+		<gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+		<gml:endPosition indeterminatePosition="unknown"/>
+	</gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Surface gml:id="pa_00000_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00000_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00001_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00001_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Curve gml:id="pc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+27.04559922 128.45352700
+27.04419267 128.45304980
+27.04117864 128.45302468
+27.03866694 128.45312513
+27.03386961 128.45410470
+27.03299052 128.45450658
+27.03233748 128.45488333
+27.03218678 128.45546101
+27.03231236 128.45631499
+27.03354309 128.45787223
+27.03680830 128.46133837
+27.03861671 128.46302120
+27.04022419 128.46400075
+27.04075165 128.46437750
+27.04127910 128.46430217
+27.04210797 128.46382494
+27.04364010 128.46319700
+27.04499641 128.46201650
+27.04585039 128.46018297
+27.04645319 128.45804805
+27.04680483 128.45490843
+27.04665413 128.45418004
+27.04637784 128.45370283
+27.04559922 128.45352700
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00001_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+31.61919136 130.58282893
+31.61918440 130.58193123
+31.61924007 130.58152761
+31.61937925 130.58118663
+31.61950451 130.58090827
+31.61962977 130.58044202
+31.61960194 130.58027500
+31.61958802 130.58011495
+31.61956018 130.58001057
+31.61917744 130.57966958
+31.61861377 130.57919637
+31.61828670 130.57876492
+31.61796659 130.57819428
+31.61805009 130.57771412
+31.61811272 130.57730354
+31.61824494 130.57707390
+31.61842588 130.57658677
+31.61825886 130.57595351
+31.61846763 130.57553597
+31.61865552 130.57509756
+31.61867640 130.57485400
+31.61863464 130.57468002
+31.61845371 130.57480528
+31.61830062 130.57504885
+31.61831088 130.57516969
+31.61819623 130.57526457
+31.61805009 130.57545942
+31.61785524 130.57566123
+31.61764648 130.57574474
+31.61747946 130.57575866
+31.61736812 130.57575170
+31.61674877 130.57598134
+31.61688795 130.57638496
+31.61716631 130.57682337
+31.61725678 130.57699735
+31.61759776 130.57740097
+31.61773694 130.57767236
+31.61779957 130.57793680
+31.61793179 130.57856311
+31.61802922 130.57950952
+31.61822344 130.58080308
+31.61834218 130.58124235
+31.61848851 130.58167375
+31.61885037 130.58227222
+31.61908002 130.58259929
+31.61919136 130.58282893
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Point gml:id="n00000">
+	<gml:pos>31.61824200 130.57890200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00001">
+	<gml:pos>31.59259536 130.65664397</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00002">
+	<gml:pos>32.10102700 130.27329663</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00003">
+	<gml:pos>31.22311200 130.65506800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00004">
+	<gml:pos>31.88651100 130.83309600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00005">
+	<gml:pos>31.90159387 130.89029122</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00006">
+	<gml:pos>31.37841190 130.44546954</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00007">
+	<gml:pos>30.30583618 130.57067390</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00008">
+	<gml:pos>30.40584700 130.43128100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00009">
+	<gml:pos>30.33605491 130.50418660</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00010">
+	<gml:pos>27.04395300 128.45331800</gml:pos>
+</gml:Point>
+<ksj:TourismResource_Surface gml:id="FL02_0000">
+	<ksj:turismResorceName>大金久海岸・百合ケ浜</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46535</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>海岸・岬</ksj:turismResorceKindName>
+	<ksj:address>与論町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00000_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0001">
+	<ksj:turismResorceName>磯庭園（仙巌園）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>庭園・公園</ksj:turismResorceKindName>
+	<ksj:address>鹿児島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00001_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Point gml:id="FL04_0000">
+	<ksj:turismResorceName>磯庭園（仙巌園）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>庭園・公園</ksj:turismResorceKindName>
+	<ksj:address>鹿児島市吉野町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00000"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0001">
+	<ksj:turismResorceName>桜島</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>山岳</ksj:turismResorceKindName>
+	<ksj:address>鹿児島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00001"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0002">
+	<ksj:turismResorceName>出水のツル</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>動物</ksj:turismResorceKindName>
+	<ksj:address>出水市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00002"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0003">
+	<ksj:turismResorceName>指宿温泉郷（指宿、山川伏目海岸）の砂蒸し風呂群</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46210</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>温泉</ksj:turismResorceKindName>
+	<ksj:address>指宿市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00003"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0004">
+	<ksj:turismResorceName>霧島温泉郷の噴煙地帯と温浴場群</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46218</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>温泉</ksj:turismResorceKindName>
+	<ksj:address>霧島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00004"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0005">
+	<ksj:turismResorceName>霧島のミヤマキリシマ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46218</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>植物</ksj:turismResorceKindName>
+	<ksj:address>霧島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00005"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0006">
+	<ksj:turismResorceName>知覧武家屋敷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46223</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>集落・街</ksj:turismResorceKindName>
+	<ksj:address>南九州市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00006"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0007">
+	<ksj:turismResorceName>屋久島の森</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46505</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>植物</ksj:turismResorceKindName>
+	<ksj:address>屋久島町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00007"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0008">
+	<ksj:turismResorceName>永田いなか浜のウミガメ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46505</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>動物</ksj:turismResorceKindName>
+	<ksj:address>屋久島町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00008"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0009">
+	<ksj:turismResorceName>宮之浦岳</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46505</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>山岳</ksj:turismResorceKindName>
+	<ksj:address>屋久島町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00009"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0010">
+	<ksj:turismResorceName>大金久海岸・百合ケ浜</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">46</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">46535</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>海岸・岬</ksj:turismResorceKindName>
+	<ksj:address>与論町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00010"/>
+</ksj:TourismResource_Point>
+</ksj:Dataset>

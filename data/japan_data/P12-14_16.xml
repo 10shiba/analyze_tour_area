@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ksj:Dataset gml:id="P12Dataset" xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app/KsjAppSchema-P12-v2_1.xsd">
+<gml:description>国土数値情報 観光資源（面） インスタンス文書</gml:description>
+<!-- データ提供範囲 -->
+<gml:boundedBy>
+	<gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+		<gml:lowerCorner>20.0 123.0</gml:lowerCorner>
+		<gml:upperCorner>46.0 154.0</gml:upperCorner>
+		<gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+		<gml:endPosition indeterminatePosition="unknown"/>
+	</gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Curve gml:id="lc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+36.64692663 137.68005196
+36.64614747 137.68032779
+36.64560439 137.68050502
+36.64533523 137.68061195
+36.64525273 137.68068084
+36.64514384 137.68083306
+36.64499995 137.68125002
+36.64494996 137.68149141
+36.64493829 137.68184891
+36.64496774 137.68252306
+36.64512662 137.68337945
+36.64516051 137.68383944
+36.64523579 137.68469529
+36.64523857 137.68494223
+36.64521662 137.68511833
+36.64517829 137.68526362
+36.64511106 137.68542640
+36.64497134 137.68564779
+36.64478301 137.68582140
+36.64469081 137.68590646
+36.64446385 137.68611584
+36.64434413 137.68620861
+36.64417439 137.68629141
+36.64388385 137.68640055
+36.64321580 137.68684862
+36.64292940 137.68700639
+36.64275411 137.68703168
+36.64234274 137.68697722
+36.64201328 137.68692280
+36.64159330 137.68685223
+36.64145885 137.68681280
+36.64120523 137.68672195
+36.64098718 137.68655640
+36.64069439 137.68644223
+36.63987747 137.68634056
+36.63946940 137.68630279
+36.63920552 137.68632974
+36.63899775 137.68642612
+36.63880357 137.68647140
+36.63843911 137.68644057
+36.63815940 137.68639528
+36.63774800 137.68619194
+36.63752886 137.68612835
+36.63734440 137.68612835
+36.63720746 137.68616113
+36.63698496 137.68634250
+36.63674996 137.68663585
+36.63650996 137.68706973
+36.63638050 137.68764029
+36.63637441 137.68850972
+36.63637441 137.68867695
+36.63634634 137.68878862
+36.63627301 137.68894918
+36.63621162 137.68908056
+36.63606218 137.68918389
+36.63585301 137.68929640
+36.63537107 137.68939444
+36.63503717 137.68945612
+36.63473301 137.68956111
+36.63418051 137.68979861
+36.63391246 137.68982613
+36.63354662 137.68990056
+36.63308550 137.68993334
+36.63280273 137.68992974
+36.63257163 137.68989501
+36.63221358 137.68975583
+36.63179829 137.68959584
+36.63162662 137.68954390
+36.63160635 137.68953779
+36.63141468 137.68952168
+36.63114967 137.68956863
+36.63080356 137.68969029
+36.63059273 137.68975916
+36.63041606 137.68986640
+36.63014330 137.69009278
+36.62989885 137.69025055
+36.62977467 137.69033417
+36.62971163 137.69035416
+36.62957107 137.69039584
+36.62941830 137.69041750
+36.62928857 137.69041223
+36.62914857 137.69037945
+36.62901857 137.69031251
+36.62893163 137.69023807
+36.62882996 137.69011640
+36.62861272 137.68979391
+36.62848773 137.68966140
+36.62829024 137.68950363
+36.62794356 137.68929362
+36.62782330 137.68924473
+36.62767608 137.68921555
+36.62721328 137.68919195
+36.62703190 137.68918279
+36.62678497 137.68913390
+36.62642522 137.68899418
+36.62615411 137.68886863
+36.62597411 137.68877113
+36.62586162 137.68867918
+36.62551886 137.68840833
+36.62527217 137.68828334
+36.62503079 137.68812723
+36.62475773 137.68792083
+36.62410107 137.68733861
+36.62391523 137.68714251
+36.62375829 137.68692362
+36.62368911 137.68678556
+36.62355718 137.68660056
+36.62346412 137.68649945
+36.62337385 137.68644361
+36.62335691 137.68642251
+36.62322190 137.68629001
+36.62302468 137.68602445
+36.62271495 137.68546612
+36.62257996 137.68525669
+36.62247440 137.68505972
+36.62227275 137.68482194
+36.62208247 137.68469889
+36.62169830 137.68450834
+36.62139885 137.68452084
+36.62105412 137.68459528
+36.62083580 137.68459168
+36.62054996 137.68455889
+36.62017275 137.68443362
+36.61983108 137.68431945
+36.61970857 137.68430723
+36.61934273 137.68428641
+36.61919635 137.68427946
+36.61899911 137.68432111
+36.61822745 137.68469501
+36.61771301 137.68492501
+36.61752385 137.68499861
+36.61743356 137.68503333
+36.61723413 137.68510861
+36.61718218 137.68512833
+36.61659301 137.68525334
+36.61642663 137.68526418
+36.61617774 137.68525695
+36.61600162 137.68529334
+36.61549746 137.68546556
+36.61530885 137.68552002
+36.61482107 137.68551639
+36.61443663 137.68555641
+36.61416412 137.68555835
+36.61394636 137.68563084
+36.61354828 137.68574890
+36.61318747 137.68576890
+36.61295997 137.68583779
+36.61262357 137.68607140
+36.61223911 137.68648529
+36.61201911 137.68667195
+36.61178497 137.68680640
+36.61151606 137.68692055
+36.61120411 137.68701501
+36.61095885 137.68707111
+36.61063412 137.68710919
+36.61021135 137.68711446
+36.60974412 137.68714195
+36.60918412 137.68713834
+36.60902079 137.68709835
+36.60888884 137.68702751
+36.60879162 137.68695502
+36.60863690 137.68680612
+36.60848162 137.68666751
+36.60836330 137.68648585
+36.60823384 137.68623472
+36.60800301 137.68578805
+36.60788467 137.68554362
+36.60785078 137.68549473
+36.60751858 137.68481751
+36.60730467 137.68443362
+36.60717523 137.68422417
+36.60706247 137.68407750
+36.60690496 137.68393778
+36.60674162 137.68383335
+36.60657829 137.68370752
+36.60645995 137.68354000
+36.60638690 137.68333751
+36.60635858 137.68319805
+36.60631357 137.68308612
+36.60612775 137.68279306
+36.60594775 137.68256251
+36.60581802 137.68233222
+36.60569995 137.68218555
+36.60555969 137.68199806
+36.60547578 137.68185640
+36.60543469 137.68171029
+36.60541718 137.68163223
+36.60541412 137.68151056
+36.60549218 137.68101500
+36.60555357 137.68067780
+36.60557606 137.68053806
+36.60562107 137.68037057
+36.60565467 137.68018196
+36.60569413 137.67997251
+36.60570550 137.67988861
+36.60571857 137.67973306
+36.60571413 137.67958585
+36.60560413 137.67920472
+36.60547050 137.67908779
+36.60514580 137.67899890
+36.60495078 137.67895334
+36.60484386 137.67893945
+36.60466384 137.67892557
+36.60441024 137.67884167
+36.60416247 137.67877194
+36.60387663 137.67872834
+36.60330357 137.67868111
+36.60309135 137.67869223
+36.60298690 137.67871752
+36.60214662 137.67914529
+36.60182690 137.67929419
+36.60132050 137.67942084
+36.60060164 137.67959140
+36.60031164 137.67965305
+36.60016997 137.67966029
+36.59975606 137.67965863
+36.59922467 137.67967474
+36.59878412 137.67972002
+36.59815662 137.67973641
+36.59785606 137.67979806
+36.59769913 137.67982612
+36.59758079 137.67985419
+36.59728800 137.67986833
+36.59716414 137.67991029
+36.59709414 137.67995251
+36.59701773 137.68000779
+36.59695190 137.68031001
+36.59690635 137.68040250
+36.59676300 137.68048584
+36.59637301 137.68057669
+36.59601023 137.68066195
+36.59573495 137.68068918
+36.59557496 137.68068918
+36.59526747 137.68062361
+36.59461496 137.68038113
+36.59377717 137.67992223
+36.59364608 137.67987695
+36.59354747 137.67986779
+36.59279357 137.67994389
+36.59250635 137.68000030
+36.59201440 137.68017055
+36.59180106 137.68020502
+36.59165441 137.68020863
+36.59148800 137.68015779
+36.59132608 137.68006722
+36.59080384 137.67964474
+36.59056440 137.67943251
+36.59013384 137.67896139
+36.58972829 137.67862419
+36.58942995 137.67847028
+36.58918997 137.67838695
+36.58902497 137.67831251
+36.58878136 137.67817834
+36.58862524 137.67804583
+36.58837939 137.67773556
+36.58816358 137.67736583
+36.58803996 137.67705001
+36.58793023 137.67669194
+36.58790219 137.67651752
+36.58787412 137.67645472
+36.58785718 137.67636389
+36.58784578 137.67626611
+36.58781219 137.67611251
+36.58777830 137.67602168
+36.58763190 137.67579835
+36.58751358 137.67551195
+36.58746857 137.67527473
+36.58745162 137.67519084
+36.58744607 137.67502335
+36.58747106 137.67473501
+36.58756969 137.67415057
+36.58758885 137.67378501
+36.58755218 137.67352363
+36.58744886 137.67324751
+36.58728386 137.67303333
+36.58695829 137.67275835
+36.58649912 137.67245334
+36.58641023 137.67241611
+36.58640929 137.67241581
+36.58620135 137.67234668
+36.58593969 137.67225363
+36.58570496 137.67214391
+36.58547830 137.67215419
+36.58534497 137.67217390
+36.58510190 137.67223057
+36.58497523 137.67226391
+36.58484303 137.67226391
+36.58468913 137.67225056
+36.58455636 137.67221750
+36.58431884 137.67213779
+36.58397606 137.67200473
+36.58367689 137.67186501
+36.58338940 137.67171555
+36.58323829 137.67162585
+36.58307358 137.67144639
+36.58293134 137.67119723
+36.58291689 137.67116639
+36.58280440 137.67092500
+36.58255134 137.67045696
+36.58242191 137.67024418
+36.58220913 137.66972280
+36.58210191 137.66942083
+36.58206941 137.66918167
+36.58209106 137.66890891
+36.58221746 137.66854000
+36.58242802 137.66789973
+36.58260052 137.66725778
+36.58275164 137.66674473
+36.58276496 137.66649751
+36.58275164 137.66619834
+36.58273191 137.66608334
+36.58270330 137.66591639
+36.58261135 137.66566056
+36.58247385 137.66544779
+36.58232747 137.66528528
+36.58210218 137.66512222
+36.58178912 137.66497306
+36.58151412 137.66487001
+36.58124802 137.66481752
+36.58096468 137.66475750
+36.58066886 137.66471140
+36.58035856 137.66470805
+36.58014691 137.66470473
+36.57992023 137.66474139
+36.57973414 137.66486112
+36.57962135 137.66502722
+36.57946217 137.66523335
+36.57936497 137.66539306
+36.57922302 137.66576473
+36.57917718 137.66603057
+36.57917718 137.66629640
+36.57912052 137.66648222
+36.57905857 137.66655556
+36.57881301 137.66673501
+36.57868468 137.66679807
+36.57848219 137.66687113
+36.57835606 137.66687445
+36.57809997 137.66684113
+36.57792996 137.66683446
+36.57764884 137.66682111
+36.57745192 137.66675805
+36.57728995 137.66673141
+36.57707691 137.66666472
+36.57692024 137.66656834
+36.57671802 137.66637557
+36.57652468 137.66624945
+36.57630356 137.66618000
+36.57618496 137.66613668
+36.57605078 137.66610030
+36.57596747 137.66610472
+36.57580552 137.66611362
+36.57566496 137.66611695
+36.57549108 137.66612694
+36.57521857 137.66614694
+36.57497553 137.66614362
+36.57473162 137.66614362
+36.57448885 137.66615694
+36.57433774 137.66616972
+36.57417052 137.66622641
+36.57390829 137.66629584
+36.57365218 137.66634250
+36.57346051 137.66639224
+36.57322053 137.66644555
+36.57302080 137.66654196
+36.57287856 137.66660834
+36.57276025 137.66670139
+36.57268996 137.66676473
+36.57249829 137.66695083
+36.57240524 137.66703363
+36.57228635 137.66707030
+36.57212192 137.66701696
+36.57195467 137.66690391
+36.57176969 137.66660195
+36.57167523 137.66625613
+36.57166164 137.66585418
+36.57162107 137.66540861
+36.57153496 137.66503612
+36.57125495 137.66433224
+36.57114441 137.66410279
+36.57088245 137.66384363
+36.57034830 137.66340834
+36.56997634 137.66304250
+36.56964718 137.66286279
+36.56933969 137.66268001
+36.56916053 137.66261639
+36.56905913 137.66258029
+36.56876662 137.66250112
+36.56841607 137.66246780
+36.56811107 137.66244445
+36.56797525 137.66241474
+36.56768135 137.66230169
+36.56726581 137.66221529
+36.56688135 137.66218555
+36.56652108 137.66216890
+36.56635390 137.66217279
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Point gml:id="n00000">
+	<gml:pos>36.57600102 137.61979640</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00001">
+	<gml:pos>36.62331975 137.61713051</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00002">
+	<gml:pos>36.46882980 137.54483820</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00003">
+	<gml:pos>36.75395861 137.75379051</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00004">
+	<gml:pos>36.42074328 137.57761550</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00005">
+	<gml:pos>36.60645334 137.68355058</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00006">
+	<gml:pos>36.57537500 137.52356700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00007">
+	<gml:pos>36.57602197 137.61978278</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00008">
+	<gml:pos>36.87169000 137.23642900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00009">
+	<gml:pos>36.40435645 136.88658256</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00010">
+	<gml:pos>36.56643800 137.66216700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00011">
+	<gml:pos>36.57594189 137.13777544</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00012">
+	<gml:pos>36.51069100 136.89645000</gml:pos>
+</gml:Point>
+<ksj:TourismResource_Line gml:id="FL03_0000">
+	<ksj:turismResorceName>黒部峡谷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16207</ksj:administartiveAreaCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16323</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>河川・峡谷</ksj:turismResorceKindName>
+	<ksj:address>黒部市　および　立山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:location xlink:href="#lc_00000_0"/>
+</ksj:TourismResource_Line>
+<ksj:TourismResource_Point gml:id="FL04_0000">
+	<ksj:turismResorceName>立山</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16323</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>山岳</ksj:turismResorceKindName>
+	<ksj:address>立山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00000"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0001">
+	<ksj:turismResorceName>剱岳</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16322</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>山岳</ksj:turismResorceKindName>
+	<ksj:address>上市町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00001"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0002">
+	<ksj:turismResorceName>薬師岳</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>山岳</ksj:turismResorceKindName>
+	<ksj:address>富山市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00002"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0003">
+	<ksj:turismResorceName>白馬三山</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>山岳</ksj:turismResorceKindName>
+	<ksj:address>黒部市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00003"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0004">
+	<ksj:turismResorceName>雲ノ平</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>高原・湿原・原野</ksj:turismResorceKindName>
+	<ksj:address>富山市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00004"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0005">
+	<ksj:turismResorceName>黒部峡谷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16207</ksj:administartiveAreaCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16323</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>河川・峡谷</ksj:turismResorceKindName>
+	<ksj:address>黒部市　および　立山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00005"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0006">
+	<ksj:turismResorceName>称名滝</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16323</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>滝</ksj:turismResorceKindName>
+	<ksj:address>立山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00006"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0007">
+	<ksj:turismResorceName>立山のライチョウ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16323</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>動物</ksj:turismResorceKindName>
+	<ksj:address>立山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00007"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0008">
+	<ksj:turismResorceName>富山湾の蜃気楼</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>自然現象</ksj:turismResorceKindName>
+	<ksj:address>富山市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00008"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0009">
+	<ksj:turismResorceName>五箇山合掌造り集落</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16210</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>集落・街</ksj:turismResorceKindName>
+	<ksj:address>南砺市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00009"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0010">
+	<ksj:turismResorceName>黒部第四ダム</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16323</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>建造物</ksj:turismResorceKindName>
+	<ksj:address>立山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00010"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0011">
+	<ksj:turismResorceName>おわら風の盆</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>年中行事</ksj:turismResorceKindName>
+	<ksj:address>富山市八尾町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00011"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0012">
+	<ksj:turismResorceName>城端曳山祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">16</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">16210</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>年中行事</ksj:turismResorceKindName>
+	<ksj:address>南砺市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00012"/>
+</ksj:TourismResource_Point>
+</ksj:Dataset>

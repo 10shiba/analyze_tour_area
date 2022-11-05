@@ -1,0 +1,4343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ksj:Dataset gml:id="P12Dataset" xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app/KsjAppSchema-P12-v2_1.xsd">
+<gml:description>国土数値情報 観光資源（面） インスタンス文書</gml:description>
+<!-- データ提供範囲 -->
+<gml:boundedBy>
+	<gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+		<gml:lowerCorner>20.0 123.0</gml:lowerCorner>
+		<gml:upperCorner>46.0 154.0</gml:upperCorner>
+		<gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+		<gml:endPosition indeterminatePosition="unknown"/>
+	</gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Surface gml:id="pa_00000_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00000_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00001_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00001_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00002_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00002_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00003_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00003_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00004_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00004_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00005_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00005_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00006_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00006_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00007_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00007_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00008_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00008_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00009_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00009_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00010_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00010_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00011_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00011_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00012_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00012_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00013_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00013_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00014_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00014_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00015_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00015_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00016_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00016_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00017_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00017_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00018_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00018_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00019_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00019_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00020_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00020_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00021_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00021_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00022_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00022_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00023_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00023_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00024_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00024_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00025_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00025_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Curve gml:id="lc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.02528900 134.15309100
+34.02529500 134.15309400
+34.02551800 134.15331100
+34.02566600 134.15354500
+34.02573000 134.15385000
+34.02578800 134.15413800
+34.02596500 134.15465900
+34.02612800 134.15489400
+34.02639500 134.15518300
+34.02667700 134.15552600
+34.02689900 134.15594000
+34.02727200 134.15606800
+34.02782500 134.15612700
+34.02815400 134.15607500
+34.02837900 134.15591600
+34.02889900 134.15534700
+34.02947000 134.15468800
+34.02981500 134.15440300
+34.03016000 134.15422700
+34.03056400 134.15408600
+34.03099700 134.15405400
+34.03144500 134.15418300
+34.03208600 134.15438500
+34.03254800 134.15449600
+34.03293700 134.15446300
+34.03345300 134.15427000
+34.03385700 134.15424600
+34.03437200 134.15425000
+34.03486500 134.15438900
+34.03533500 134.15452700
+34.03555800 134.15471700
+34.03587000 134.15498800
+34.03613600 134.15547400
+34.03655000 134.15619600
+34.03681500 134.15687100
+34.03694600 134.15749000
+34.03701000 134.15813700
+34.03705200 134.15870200
+34.03703000 134.15882000
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.01729900 134.15445800
+34.01738000 134.15448600
+34.01759700 134.15450600
+34.01797100 134.15449100
+34.01827000 134.15434900
+34.01839200 134.15404500
+34.01848300 134.15366900
+34.01862000 134.15327600
+34.01878600 134.15302600
+34.01890700 134.15272200
+34.01914900 134.15227600
+34.01954100 134.15163300
+34.01982600 134.15138400
+34.02017100 134.15117100
+34.02106700 134.15071200
+34.02166400 134.15042900
+34.02206900 134.15012700
+34.02253300 134.14997000
+34.02304200 134.14975800
+34.02352100 134.14970800
+34.02378900 134.14974600
+34.02396800 134.14994500
+34.02405600 134.15019600
+34.02406800 134.15060900
+34.02406300 134.15156000
+34.02413700 134.15168600
+34.02413600 134.15191900
+34.02426800 134.15229700
+34.02446100 134.15263900
+34.02475900 134.15280300
+34.02528900 134.15309100
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.04598900 134.17319400
+34.04612200 134.17326800
+34.04661400 134.17340600
+34.04726300 134.17360000
+34.04768800 134.17371100
+34.04813600 134.17379500
+34.04893600 134.17409700
+34.04956200 134.17423700
+34.05083800 134.17459700
+34.05164300 134.17489900
+34.05233700 134.17503900
+34.05276100 134.17528500
+34.05372300 134.17561500
+34.05445800 134.17587700
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.01169900 134.14549800
+34.01204200 134.14546500
+34.01237000 134.14561100
+34.01256300 134.14581000
+34.01269700 134.14604400
+34.01291800 134.14626000
+34.01330500 134.14646000
+34.01382700 134.14668000
+34.01426000 134.14680900
+34.01455700 134.14704400
+34.01482500 134.14731500
+34.01502800 134.14753000
+34.01522000 134.14789000
+34.01539700 134.14830400
+34.01547000 134.14862800
+34.01558700 134.14907400
+34.01560000 134.14952200
+34.01546100 134.15023900
+34.01550200 134.15099200
+34.01569300 134.15146000
+34.01593000 134.15189200
+34.01609200 134.15223400
+34.01621000 134.15268400
+34.01631100 134.15316900
+34.01645800 134.15363600
+34.01671000 134.15397900
+34.01688800 134.15423100
+34.01711100 134.15439400
+34.01729900 134.15445800
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.03780600 134.16294000
+34.03810500 134.16277300
+34.03862000 134.16277700
+34.03906800 134.16283400
+34.03940200 134.16313300
+34.03973700 134.16348600
+34.04020300 134.16418900
+34.04052900 134.16491500
+34.04108500 134.16580700
+34.04137100 134.16646900
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.04287700 134.16988500
+34.04313900 134.17031200
+34.04373900 134.17117800
+34.04434000 134.17196300
+34.04483000 134.17250500
+34.04529500 134.17280400
+34.04563000 134.17299500
+34.04598900 134.17319400
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.03703000 134.15882000
+34.03695900 134.15921200
+34.03677700 134.15974900
+34.03659500 134.16017800
+34.03652400 134.16087700
+34.03622700 134.16192400
+34.03620100 134.16257000
+34.03631100 134.16294700
+34.03646600 134.16324500
+34.03669000 134.16335400
+34.03704800 134.16330300
+34.03767700 134.16301200
+34.03780600 134.16294000
+			</gml:posList>
+		</gml:LineStringSegment>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.04137100 134.16646900
+34.04150500 134.16677900
+34.04185900 134.16756300
+34.04210200 134.16826400
+34.04239000 134.16883100
+34.04287700 134.16988500
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.15962864 134.50316350
+34.15963592 134.50312422
+34.15965292 134.50312878
+34.15969572 134.50289653
+34.15952694 134.50285389
+34.15956186 134.50280939
+34.15953514 134.50277914
+34.15950681 134.50281525
+34.15951422 134.50282369
+34.15947431 134.50287461
+34.15936331 134.50284522
+34.15936897 134.50281428
+34.15932453 134.50280247
+34.15931661 134.50284564
+34.15930869 134.50284347
+34.15931217 134.50282444
+34.15930364 134.50282217
+34.15932064 134.50272814
+34.15928958 134.50271983
+34.15929581 134.50268586
+34.15921836 134.50266531
+34.15921214 134.50269961
+34.15918039 134.50269122
+34.15917850 134.50270139
+34.15916283 134.50269731
+34.15915528 134.50273886
+34.15916986 134.50274272
+34.15916411 134.50277442
+34.15914261 134.50276875
+34.15912694 134.50285447
+34.15913792 134.50285731
+34.15911686 134.50297256
+34.15927914 134.50301547
+34.15930283 134.50288583
+34.15934333 134.50289661
+34.15932408 134.50300178
+34.15929411 134.50299383
+34.15928242 134.50305758
+34.15931119 134.50306519
+34.15930922 134.50307611
+34.15936958 134.50309211
+34.15937561 134.50305900
+34.15949500 134.50309058
+34.15948794 134.50312583
+34.15962864 134.50316350
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00001_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.12078131 134.37785200
+34.12064247 134.37784928
+34.12063612 134.37802441
+34.12078131 134.37802804
+34.12078131 134.37785200
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00002_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.12084861 134.33978806
+34.12075806 134.33980694
+34.12078000 134.33996444
+34.12086889 134.33995139
+34.12084861 134.33978806
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00003_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.10436139 134.33370639
+34.10435583 134.33367250
+34.10427111 134.33367250
+34.10427694 134.33382833
+34.10435583 134.33382833
+34.10436139 134.33370639
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00004_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.10784673 134.30420622
+34.10765073 134.30420622
+34.10764438 134.30433598
+34.10784401 134.30434233
+34.10784673 134.30420622
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00005_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.06884190 134.14470996
+34.06858534 134.14457382
+34.06833925 134.14449529
+34.06814029 134.14446387
+34.06813505 134.14484609
+34.06808491 134.14501183
+34.06802442 134.14516305
+34.06790991 134.14512883
+34.06779995 134.14552153
+34.06790467 134.14553724
+34.06787849 134.14567861
+34.06779472 134.14591946
+34.06809840 134.14597705
+34.06806175 134.14612890
+34.06784184 134.14606607
+34.06778948 134.14669438
+34.06754863 134.14658966
+34.06750151 134.14679910
+34.06759575 134.14680957
+34.06758004 134.14708184
+34.06762717 134.14707660
+34.06760622 134.14726509
+34.06752768 134.14747453
+34.06748056 134.14775204
+34.06766905 134.14780440
+34.06759575 134.14796147
+34.06722924 134.14777298
+34.06724494 134.14759496
+34.06695697 134.14755307
+34.06690984 134.14798765
+34.06702503 134.14800860
+34.06701456 134.14816044
+34.06720829 134.14817615
+34.06722400 134.14832799
+34.06740202 134.14837511
+34.06745962 134.14825469
+34.06792562 134.14847983
+34.06789944 134.14885158
+34.06801463 134.14888300
+34.06840209 134.14808714
+34.06847015 134.14725462
+34.06860629 134.14649018
+34.06874766 134.14557389
+34.06884190 134.14470996
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00006_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.89144630 133.81415987
+33.89130287 133.81422129
+33.89117700 133.81450436
+33.89086023 133.81474411
+33.89105189 133.81511038
+33.89167982 133.81471112
+33.89144630 133.81415987
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00007_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.98522889 134.31046083
+33.98497528 134.31024444
+33.98492444 134.31032556
+33.98482306 134.31025111
+33.98478361 134.31031861
+33.98475528 134.31038639
+33.98499778 134.31058250
+33.98504861 134.31050139
+33.98515000 134.31058250
+33.98522889 134.31046083
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00008_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.02177546 134.42517243
+34.02239976 134.42546281
+34.02334348 134.42582578
+34.02583164 134.42663883
+34.02658661 134.42678402
+34.02738514 134.42622505
+34.02835064 134.42593467
+34.02876443 134.42549911
+34.02851761 134.42484576
+34.02827805 134.42417064
+34.02764648 134.42349552
+34.02583002 134.42267129
+34.02322733 134.42185490
+34.02253172 134.42205928
+34.02223280 134.42147015
+34.02112211 134.42042480
+34.02145604 134.41933589
+34.02083174 134.41880596
+34.02065751 134.41887855
+34.01988802 134.41943752
+34.01959764 134.42045384
+34.01992305 134.42127752
+34.02009893 134.42172273
+34.02029454 134.42221787
+34.02048929 134.42270475
+34.02016932 134.42308173
+34.01969020 134.42378589
+34.01954501 134.42424323
+34.01942160 134.42467880
+34.01998057 134.42480221
+34.02051232 134.42499821
+34.02177546 134.42517243
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00009_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.67168528 134.40805417
+33.67165139 134.40800028
+33.67162889 134.40799361
+33.67153861 134.40808111
+33.67155000 134.40813528
+33.67158361 134.40816222
+33.67165139 134.40810806
+33.67168528 134.40805417
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00010_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.73220533 134.52760567
+33.73223564 134.52763592
+33.73222094 134.52765689
+33.73228158 134.52771750
+33.73229964 134.52769161
+33.73233022 134.52772228
+33.73244511 134.52755803
+33.73241506 134.52752786
+33.73245778 134.52746678
+33.73236639 134.52737525
+33.73220533 134.52760567
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00011_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.14750241 134.46847555
+34.14749686 134.46846194
+34.14741213 134.46846194
+34.14741213 134.46859750
+34.14749102 134.46859750
+34.14750241 134.46847555
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00012_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.15135833 134.43094611
+34.15136519 134.43083953
+34.15126537 134.43083681
+34.15126250 134.43094611
+34.15135833 134.43094611
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00013_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.13808875 134.43113119
+34.13799231 134.43115969
+34.13803917 134.43135972
+34.13812297 134.43133400
+34.13811250 134.43128500
+34.13818000 134.43125806
+34.13820833 134.43140694
+34.13811244 134.43144036
+34.13813994 134.43155472
+34.13822731 134.43152456
+34.13825333 134.43165111
+34.13818689 134.43167914
+34.13817150 134.43162886
+34.13807189 134.43165656
+34.13812944 134.43186778
+34.13822392 134.43184592
+34.13821344 134.43179647
+34.13835978 134.43174372
+34.13824806 134.43111358
+34.13809556 134.43115639
+34.13808875 134.43113119
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00014_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.11809513 134.38818564
+34.11798034 134.38818564
+34.11798034 134.38846241
+34.11809513 134.38846241
+34.11809513 134.38818564
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00015_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.12179775 134.41188946
+34.12120708 134.41192269
+34.12092350 134.41196378
+34.12082894 134.41200947
+34.12097606 134.41348000
+34.12102736 134.41354061
+34.12105772 134.41354356
+34.12120394 134.41353136
+34.12126553 134.41356778
+34.12139028 134.41363092
+34.12148028 134.41358094
+34.12185215 134.41261458
+34.12179775 134.41188946
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00016_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.15974280 134.39988557
+34.15939798 134.39981298
+34.15937439 134.39996543
+34.15972465 134.40006161
+34.15974280 134.39988557
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00017_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.12582664 134.60724732
+34.12565968 134.60717473
+34.12550350 134.60759603
+34.12389133 134.61118067
+34.12384772 134.61160975
+34.12387825 134.61224131
+34.12469414 134.61205975
+34.12619497 134.61245744
+34.12650911 134.61268769
+34.12666617 134.61313769
+34.12670981 134.61413192
+34.12666766 134.61464343
+34.12889736 134.61516005
+34.12994271 134.60974455
+34.12582664 134.60724732
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00018_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.17113994 134.50265606
+34.17114542 134.50258217
+34.17111217 134.50257861
+34.17111339 134.50256281
+34.17100567 134.50255133
+34.17100900 134.50250614
+34.17099783 134.50250492
+34.17099917 134.50248628
+34.17096503 134.50248261
+34.17096725 134.50245142
+34.17093628 134.50244811
+34.17093747 134.50243239
+34.17095406 134.50243411
+34.17096469 134.50228858
+34.17079914 134.50227089
+34.17079742 134.50229333
+34.17066736 134.50227942
+34.17066594 134.50229892
+34.17061297 134.50229331
+34.17061014 134.50233211
+34.17059958 134.50233100
+34.17059503 134.50239244
+34.17079608 134.50241381
+34.17079689 134.50240353
+34.17087922 134.50241067
+34.17087517 134.50247744
+34.17084681 134.50247503
+34.17084283 134.50254117
+34.17081481 134.50253867
+34.17080928 134.50262939
+34.17083558 134.50263164
+34.17083225 134.50268681
+34.17086353 134.50268956
+34.17086092 134.50273314
+34.17094297 134.50274028
+34.17094350 134.50274203
+34.17094633 134.50270400
+34.17099428 134.50270900
+34.17099833 134.50265331
+34.17110894 134.50266503
+34.17110986 134.50265278
+34.17113994 134.50265606
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00019_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.96803053 134.60625200
+33.96817181 134.60595889
+33.96803408 134.60585614
+33.96791033 134.60567239
+33.96789036 134.60568994
+33.96781539 134.60558603
+33.96782539 134.60557428
+33.96780258 134.60554231
+33.96771269 134.60562825
+33.96776644 134.60570617
+33.96771642 134.60576289
+33.96773911 134.60581069
+33.96772903 134.60582839
+33.96777619 134.60590819
+33.96780444 134.60588481
+33.96783369 134.60593667
+33.96787700 134.60589169
+33.96790142 134.60592964
+33.96784967 134.60599428
+33.96787256 134.60601833
+33.96785417 134.60604581
+33.96783450 134.60602972
+33.96778906 134.60612611
+33.96774600 134.60613214
+33.96773803 134.60614667
+33.96772069 134.60613283
+33.96769408 134.60618481
+33.96770447 134.60619331
+33.96767150 134.60627131
+33.96765675 134.60626381
+33.96759628 134.60639689
+33.96769069 134.60646608
+33.96773158 134.60647500
+33.96765464 134.60659428
+33.96763986 134.60658886
+33.96761764 134.60663667
+33.96768958 134.60668572
+33.96772147 134.60662861
+33.96787403 134.60672997
+33.96789889 134.60668114
+33.96792317 134.60669608
+33.96794003 134.60666075
+33.96792275 134.60664378
+33.96806950 134.60634867
+33.96808075 134.60635614
+33.96812250 134.60627092
+33.96807144 134.60622947
+33.96803589 134.60630325
+33.96799575 134.60626542
+33.96800925 134.60623194
+33.96803053 134.60625200
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00020_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.85181623 134.58262391
+33.85160435 134.58271011
+33.85171460 134.58298552
+33.85191287 134.58289614
+33.85181623 134.58262391
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00021_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.05174242 134.34839375
+34.05158045 134.34835428
+34.05152782 134.34860518
+34.05169705 134.34864466
+34.05174242 134.34839375
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00022_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.07507945 134.51246818
+34.07270563 134.51331390
+34.07332268 134.51550623
+34.07657851 134.51492548
+34.07639703 134.51454799
+34.07585257 134.51367687
+34.07507945 134.51246818
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00023_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.62091719 134.37068842
+33.62059873 134.37029292
+33.62023250 134.37019163
+33.61960914 134.37026955
+33.61911824 134.37037084
+33.61896239 134.37094746
+33.61836241 134.37086954
+33.61826111 134.37157082
+33.61766314 134.37138803
+33.61758536 134.37161289
+33.61753892 134.37186064
+33.61761444 134.37210100
+33.61784308 134.37204567
+33.61802747 134.37202450
+33.61835697 134.37206686
+33.61871200 134.37212861
+33.61911658 134.37217461
+33.61964925 134.37210542
+33.62048311 134.37185731
+33.62078519 134.37171375
+33.62088264 134.37151794
+33.62088244 134.37117347
+33.62091719 134.37068842
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00024_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.63630806 134.42388444
+33.63644694 134.42395500
+33.63648833 134.42429083
+33.63642611 134.42478028
+33.63646794 134.42500000
+33.63609976 134.42539402
+33.63577750 134.42569250
+33.63544292 134.42514222
+33.63560983 134.42500000
+33.63584750 134.42439444
+33.63579972 134.42433750
+33.63601922 134.42378542
+33.63620486 134.42328031
+33.63644367 134.42255900
+33.63660417 134.42248750
+33.63688369 134.42252572
+33.63692086 134.42250467
+33.63711500 134.42226639
+33.63704007 134.42192257
+33.63690083 134.42162667
+33.63650056 134.42120889
+33.63616222 134.42103389
+33.63540694 134.42095972
+33.63473611 134.42094611
+33.63451639 134.42099333
+33.63414417 134.42108778
+33.63356917 134.42118194
+33.63333333 134.42106631
+33.63312528 134.42112639
+33.63286028 134.42126778
+33.63271250 134.42151194
+33.63232917 134.42157944
+33.63083000 134.42208472
+33.63076333 134.42188417
+33.63047306 134.42198528
+33.63021639 134.42210639
+33.63009528 134.42230194
+33.62994583 134.42241639
+33.62973722 134.42247694
+33.62950333 134.42262861
+33.62944972 134.42292500
+33.62939056 134.42311361
+33.62921861 134.42338611
+33.62927222 134.42377000
+33.62900139 134.42424833
+33.62905778 134.42452806
+33.62924775 134.42500000
+33.62945806 134.42537333
+33.62966111 134.42565611
+33.62991778 134.42589167
+33.63024472 134.42608028
+33.63050861 134.42626028
+33.63071722 134.42632778
+33.63098750 134.42638167
+33.63150611 134.42634806
+33.63221639 134.42640861
+33.63333333 134.42647614
+33.63375867 134.42653519
+33.63441730 134.42665889
+33.63506306 134.42670500
+33.63561412 134.42654326
+33.63625806 134.42626722
+33.63665833 134.42597750
+33.63694583 134.42553972
+33.63723333 134.42459694
+33.63721083 134.42407139
+33.63708744 134.42333042
+33.63693222 134.42331639
+33.63685250 134.42352361
+33.63648500 134.42345722
+33.63630806 134.42388444
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00025_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+33.66009222 134.40235663
+33.65982534 134.40192806
+33.65961106 134.40170015
+33.65944937 134.40190079
+33.65959937 134.40221248
+33.65972794 134.40306960
+33.65970846 134.40403192
+33.65941041 134.40460853
+33.65921694 134.40557417
+33.65939678 134.40579682
+33.65985261 134.40569942
+33.66019546 134.40500593
+33.66035130 134.40409036
+33.66030650 134.40311635
+33.66009222 134.40235663
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Point gml:id="n00000">
+	<gml:pos>34.06576500 134.55930200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00001">
+	<gml:pos>34.06576500 134.55930200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00002">
+	<gml:pos>34.05308750 134.56357250</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00003">
+	<gml:pos>34.07014167 134.54503111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00004">
+	<gml:pos>34.07498417 134.54623389</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00005">
+	<gml:pos>34.02814083 134.45537750</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00006">
+	<gml:pos>34.06573200 134.55929300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00007">
+	<gml:pos>34.07027556 134.55482722</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00008">
+	<gml:pos>34.01378100 134.52138200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00009">
+	<gml:pos>34.06975900 134.55042800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00010">
+	<gml:pos>34.06975900 134.55042800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00011">
+	<gml:pos>34.07027000 134.55484400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00012">
+	<gml:pos>34.06715300 134.53775700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00013">
+	<gml:pos>34.07012800 134.54510900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00014">
+	<gml:pos>34.07027000 134.55484400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00015">
+	<gml:pos>34.09352800 134.60454300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00016">
+	<gml:pos>34.07369472 134.51382750</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00017">
+	<gml:pos>34.07729935 134.55022126</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00018">
+	<gml:pos>34.07027000 134.55484400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00019">
+	<gml:pos>34.07106000 134.54835700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00020">
+	<gml:pos>34.09156389 134.58408333</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00021">
+	<gml:pos>34.08006944 134.55398417</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00022">
+	<gml:pos>34.07027000 134.55484400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00023">
+	<gml:pos>34.07364500 134.55573800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00024">
+	<gml:pos>34.07012800 134.54510900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00025">
+	<gml:pos>34.03900834 134.52626493</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00026">
+	<gml:pos>34.23238278 134.63798139</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00027">
+	<gml:pos>34.23706700 134.64248000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00028">
+	<gml:pos>34.23371389 134.63780389</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00029">
+	<gml:pos>34.19690100 134.46824300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00030">
+	<gml:pos>34.15651000 134.49677389</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00031">
+	<gml:pos>34.23609139 134.63972111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00032">
+	<gml:pos>34.16322417 134.49875722</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00033">
+	<gml:pos>34.16139100 134.53610200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00034">
+	<gml:pos>34.17093025 134.50257274</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00035">
+	<gml:pos>34.23486274 134.64016393</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00036">
+	<gml:pos>34.16357583 134.49894944</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00037">
+	<gml:pos>34.16715278 134.61953028</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00038">
+	<gml:pos>34.21029250 134.59683333</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00039">
+	<gml:pos>34.23534545 134.58121654</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00040">
+	<gml:pos>34.17256200 134.60878600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00041">
+	<gml:pos>34.23077583 134.62338722</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00042">
+	<gml:pos>34.16466056 134.49915667</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00043">
+	<gml:pos>34.17256200 134.60878600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00044">
+	<gml:pos>34.17021700 134.61114000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00045">
+	<gml:pos>34.15940139 134.50295580</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00046">
+	<gml:pos>33.99232594 134.62850212</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00047">
+	<gml:pos>34.00467833 134.59072111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00048">
+	<gml:pos>33.97657778 134.60336556</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00049">
+	<gml:pos>34.01660500 134.59536400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00050">
+	<gml:pos>34.01010312 134.59132283</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00051">
+	<gml:pos>34.00895200 134.59029700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00052">
+	<gml:pos>34.01851523 134.58182970</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00053">
+	<gml:pos>33.96783083 134.60634750</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00054">
+	<gml:pos>33.99825611 134.63281194</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00055">
+	<gml:pos>33.85091900 134.63963700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00056">
+	<gml:pos>33.91500800 134.55270600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00057">
+	<gml:pos>33.83139800 134.72591000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00058">
+	<gml:pos>33.95365285 134.68283222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00059">
+	<gml:pos>33.91972222 134.68416667</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00060">
+	<gml:pos>33.92102800 134.65758600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00061">
+	<gml:pos>33.86382500 134.60207400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00062">
+	<gml:pos>33.92174800 134.65946900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00063">
+	<gml:pos>33.91858778 134.66229694</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00064">
+	<gml:pos>33.94878688 134.68186949</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00065">
+	<gml:pos>33.95293200 134.66781400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00066">
+	<gml:pos>33.92442600 134.58187600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00067">
+	<gml:pos>33.92244700 134.55232100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00068">
+	<gml:pos>33.93169700 134.62108200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00069">
+	<gml:pos>33.94368200 134.60876500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00070">
+	<gml:pos>33.94127000 134.62311800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00071">
+	<gml:pos>33.92054030 134.69982455</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00072">
+	<gml:pos>33.95294056 134.66770306</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00073">
+	<gml:pos>33.85181400 134.58276300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00074">
+	<gml:pos>33.90055556 134.68750000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00075">
+	<gml:pos>33.90055556 134.68750000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00076">
+	<gml:pos>33.89104400 134.58850900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00077">
+	<gml:pos>34.06349400 134.22924600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00078">
+	<gml:pos>34.03366972 134.23425056</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00079">
+	<gml:pos>34.03667194 134.30056028</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00080">
+	<gml:pos>34.04591556 134.23107250</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00081">
+	<gml:pos>34.06264167 134.36090750</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00082">
+	<gml:pos>34.06625167 134.35861806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00083">
+	<gml:pos>34.06625167 134.35861806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00084">
+	<gml:pos>34.07215700 134.35696200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00085">
+	<gml:pos>34.00294400 134.19436200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00086">
+	<gml:pos>34.05165100 134.34848200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00087">
+	<gml:pos>34.08367200 134.34834300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00088">
+	<gml:pos>34.03267100 134.25587100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00089">
+	<gml:pos>34.02226100 134.26247200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00090">
+	<gml:pos>34.02241417 134.26233806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00091">
+	<gml:pos>34.03274500 134.25584100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00092">
+	<gml:pos>34.05384750 134.32553778</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00093">
+	<gml:pos>34.11541565 134.31549518</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00094">
+	<gml:pos>34.08904444 134.19360555</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00095">
+	<gml:pos>34.08236200 134.23577000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00096">
+	<gml:pos>34.09267813 134.20701538</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00097">
+	<gml:pos>34.15138055 134.35285000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00098">
+	<gml:pos>34.09776729 134.37129223</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00099">
+	<gml:pos>34.11309167 134.29845000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00100">
+	<gml:pos>34.10430943 134.33373200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00101">
+	<gml:pos>34.12009700 134.37771600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00102">
+	<gml:pos>34.12071900 134.37794500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00103">
+	<gml:pos>34.10780000 134.30427700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00104">
+	<gml:pos>34.12392500 134.35361389</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00105">
+	<gml:pos>34.09429722 134.21197500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00106">
+	<gml:pos>34.15088056 134.35247222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00107">
+	<gml:pos>34.12080981 134.33986540</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00108">
+	<gml:pos>34.12192222 134.33761111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00109">
+	<gml:pos>34.07827220 134.15890249</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00110">
+	<gml:pos>34.06790300 134.14663300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00111">
+	<gml:pos>34.02285404 134.15055822</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00112">
+	<gml:pos>34.03664700 134.15836500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00113">
+	<gml:pos>34.13534600 134.15791300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00114">
+	<gml:pos>34.04932915 134.17410579</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00115">
+	<gml:pos>34.03933222 134.18187472</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00116">
+	<gml:pos>34.04155500 134.00104694</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00117">
+	<gml:pos>34.08593500 134.04551500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00118">
+	<gml:pos>34.05570300 134.05374000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00119">
+	<gml:pos>34.06327600 134.14757900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00120">
+	<gml:pos>34.06793800 134.14662200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00121">
+	<gml:pos>34.02797300 133.83768700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00122">
+	<gml:pos>33.86882500 133.97891500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00123">
+	<gml:pos>34.01581100 133.78140300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00124">
+	<gml:pos>34.02604100 133.80726300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00125">
+	<gml:pos>33.90565100 133.75392900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00126">
+	<gml:pos>33.98760889 133.76208111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00127">
+	<gml:pos>33.96319600 133.88488900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00128">
+	<gml:pos>34.03619000 133.72342400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00129">
+	<gml:pos>33.93649700 133.68131800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00130">
+	<gml:pos>33.86896800 133.98018100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00131">
+	<gml:pos>33.85350100 134.04572800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00132">
+	<gml:pos>33.85405800 134.09468400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00133">
+	<gml:pos>33.86664200 134.08903800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00134">
+	<gml:pos>34.05812611 133.98705944</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00135">
+	<gml:pos>33.95859000 133.82083200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00136">
+	<gml:pos>33.85350100 134.04572800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00137">
+	<gml:pos>33.89136404 133.81444252</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00138">
+	<gml:pos>33.88965472 133.81223111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00139">
+	<gml:pos>33.87334600 133.83184200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00140">
+	<gml:pos>33.91186200 133.75857100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00141">
+	<gml:pos>33.88527694 133.76052639</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00142">
+	<gml:pos>34.02595389 133.80712417</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00143">
+	<gml:pos>33.87944800 133.82666500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00144">
+	<gml:pos>34.05048500 133.93248300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00145">
+	<gml:pos>33.88166861 133.76021889</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00146">
+	<gml:pos>34.04016500 133.84382300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00147">
+	<gml:pos>33.88215500 133.77923900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00148">
+	<gml:pos>33.92142000 133.81750800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00149">
+	<gml:pos>33.93205000 134.52251900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00150">
+	<gml:pos>33.93144111 134.51139500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00151">
+	<gml:pos>33.93235200 134.52294000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00152">
+	<gml:pos>33.90454750 134.41839222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00153">
+	<gml:pos>33.88495807 134.41809047</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00154">
+	<gml:pos>33.95853700 134.42314400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00155">
+	<gml:pos>33.95527800 134.41187600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00156">
+	<gml:pos>33.95661400 134.46159100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00157">
+	<gml:pos>34.08395700 134.44555300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00158">
+	<gml:pos>34.07469306 134.44073806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00159">
+	<gml:pos>34.08413000 134.44558300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00160">
+	<gml:pos>34.07469306 134.44073806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00161">
+	<gml:pos>34.07469306 134.44073806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00162">
+	<gml:pos>34.03776900 134.41755900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00163">
+	<gml:pos>33.96731000 134.35050400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00164">
+	<gml:pos>33.95090700 134.33535800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00165">
+	<gml:pos>33.92515000 134.27057300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00166">
+	<gml:pos>33.98500318 134.31041106</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00167">
+	<gml:pos>33.97177528 134.37009667</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00168">
+	<gml:pos>33.97216600 134.37011100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00169">
+	<gml:pos>34.02276500 134.42357900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00170">
+	<gml:pos>33.97355300 134.36770000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00171">
+	<gml:pos>33.96432600 134.31351000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00172">
+	<gml:pos>33.85240000 134.48559200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00173">
+	<gml:pos>33.81114700 134.36085000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00174">
+	<gml:pos>33.79750000 134.44611111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00175">
+	<gml:pos>33.77603389 134.20584528</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00176">
+	<gml:pos>33.77832300 134.08392600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00177">
+	<gml:pos>33.86323000 134.25083800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00178">
+	<gml:pos>33.79777778 134.45222222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00179">
+	<gml:pos>33.79637600 134.44860000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00180">
+	<gml:pos>33.86250000 134.50222222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00181">
+	<gml:pos>33.86897617 134.55466664</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00182">
+	<gml:pos>33.86299722 134.50237556</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00183">
+	<gml:pos>33.79805556 134.44583333</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00184">
+	<gml:pos>33.85742278 134.49661028</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00185">
+	<gml:pos>33.66706500 134.44362100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00186">
+	<gml:pos>33.63367000 134.42385500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00187">
+	<gml:pos>33.71133100 134.44120700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00188">
+	<gml:pos>33.66819889 134.42073778</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00189">
+	<gml:pos>33.66153472 134.39298278</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00190">
+	<gml:pos>33.67165100 134.40804000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00191">
+	<gml:pos>33.73540917 134.54109417</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00192">
+	<gml:pos>33.77601200 134.59184600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00193">
+	<gml:pos>33.77204533 134.58200933</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00194">
+	<gml:pos>33.72931417 134.53013833</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00195">
+	<gml:pos>33.73455300 134.53544400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00196">
+	<gml:pos>33.73234800 134.52761100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00197">
+	<gml:pos>33.73463222 134.53543222</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00198">
+	<gml:pos>33.56918000 134.30707300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00199">
+	<gml:pos>33.58803600 134.35354400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00200">
+	<gml:pos>33.56869100 134.30666500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00201">
+	<gml:pos>33.54737600 134.31701400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00202">
+	<gml:pos>33.56779400 134.30322300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00203">
+	<gml:pos>33.61920200 134.37178900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00204">
+	<gml:pos>33.63925900 134.37820300</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00205">
+	<gml:pos>33.61097300 134.36932200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00206">
+	<gml:pos>34.13378111 134.58061083</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00207">
+	<gml:pos>34.14245246 134.57731196</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00208">
+	<gml:pos>34.12423139 134.60662483</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00209">
+	<gml:pos>34.12757071 134.61079171</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00210">
+	<gml:pos>34.13692722 134.58268667</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00211">
+	<gml:pos>34.11319000 134.54411800</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00212">
+	<gml:pos>34.12910300 134.55353413</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00213">
+	<gml:pos>34.12945361 134.49724917</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00214">
+	<gml:pos>34.12945361 134.49724917</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00215">
+	<gml:pos>34.12665806 134.49759889</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00216">
+	<gml:pos>34.11565023 134.48229320</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00217">
+	<gml:pos>34.15362500 134.44143111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00218">
+	<gml:pos>34.15362500 134.44143111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00219">
+	<gml:pos>34.16713306 134.45738806</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00220">
+	<gml:pos>34.14765694 134.47191111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00221">
+	<gml:pos>34.13828500 134.43138500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00222">
+	<gml:pos>34.14745700 134.46853100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00223">
+	<gml:pos>34.15134500 134.43085700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00224">
+	<gml:pos>34.14838300 134.43978900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00225">
+	<gml:pos>34.11991000 134.43252700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00226">
+	<gml:pos>34.13416100 134.38037900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00227">
+	<gml:pos>34.12131700 134.41251000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00228">
+	<gml:pos>34.13100800 134.39838600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00229">
+	<gml:pos>34.15953500 134.39990100</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00230">
+	<gml:pos>34.11804000 134.38831200</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00231">
+	<gml:pos>34.03652528 134.06220083</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00232">
+	<gml:pos>34.00071004 134.08439237</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00233">
+	<gml:pos>34.04289861 134.05643111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00234">
+	<gml:pos>33.97367800 134.08062600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00235">
+	<gml:pos>34.04263695 134.06005500</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00236">
+	<gml:pos>34.03940700 134.06172900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00237">
+	<gml:pos>33.99050400 133.99977000</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00238">
+	<gml:pos>34.03669400 133.89170600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00239">
+	<gml:pos>34.03669400 133.89170600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00240">
+	<gml:pos>34.03669400 133.89170600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00241">
+	<gml:pos>34.03669400 133.89170600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00242">
+	<gml:pos>34.03669400 133.89170600</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00243">
+	<gml:pos>34.04475751 133.93910111</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00244">
+	<gml:pos>34.03679444 133.93688194</gml:pos>
+</gml:Point>
+<ksj:TourismResource_Surface gml:id="FL02_0000">
+	<ksj:turismResorceName>霊山寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町板東字塚鼻126</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00000_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0001">
+	<ksj:turismResorceName>七番札所　十楽寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町高尾字法教田58</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00001_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0002">
+	<ksj:turismResorceName>八番札所　熊谷寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町土成字前田185</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00002_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0003">
+	<ksj:turismResorceName>九番札所　法輪寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町土成字田中198-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00003_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0004">
+	<ksj:turismResorceName>十番札所　切幡寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市市場町切幡字観音129</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00004_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0005">
+	<ksj:turismResorceName>うだつの町並み</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市脇町大字脇町</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00005_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0006">
+	<ksj:turismResorceName>祖谷ふれあい公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市西祖谷山村字尾井ノ内</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00006_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0007">
+	<ksj:turismResorceName>焼山寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町下分字地中318</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00007_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0008">
+	<ksj:turismResorceName>神山森林公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町阿野字大地459-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00008_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0009">
+	<ksj:turismResorceName>不動山正観寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町中村奥前158-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00009_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0010">
+	<ksj:turismResorceName>薬王寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町奥河内字寺前285-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00010_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0011">
+	<ksj:turismResorceName>三番札所　金泉寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町大寺字亀山下66</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00011_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0012">
+	<ksj:turismResorceName>四番札所　大日寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町黒谷字居内5</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00012_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0013">
+	<ksj:turismResorceName>五番札所　地蔵寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町羅漢字林東5</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00013_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0014">
+	<ksj:turismResorceName>六番札所　安楽寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町引野字寺の西北8</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00014_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0015">
+	<ksj:turismResorceName>上板町ファミリースポーツ公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町七條天王7</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00015_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0016">
+	<ksj:turismResorceName>大山寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町神宅大山14</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00016_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0017">
+	<ksj:turismResorceName>月見ヶ丘海浜公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36401</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>松茂町豊岡字山ノ手42</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00017_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0018">
+	<ksj:turismResorceName>大麻比古神社</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町板東字広塚13</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00018_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0019">
+	<ksj:turismResorceName>立江寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市立江町若松13</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00019_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0020">
+	<ksj:turismResorceName>平等寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市新野町秋山177</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00020_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0021">
+	<ksj:turismResorceName>藤井寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市鴨島町飯尾1525</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00021_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0022">
+	<ksj:turismResorceName>蔵本公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市庄町1-76-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00022_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0023">
+	<ksj:turismResorceName>蛇王運動公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町浅川字西福良43</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00023_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0024">
+	<ksj:turismResorceName>出羽島</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町牟岐字出羽島</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00024_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0025">
+	<ksj:turismResorceName>内妻海岸</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町内妻</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00025_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Line gml:id="FL03_0000">
+	<ksj:turismResorceName>穴吹川</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:location xlink:href="#lc_00000_0"/>
+</ksj:TourismResource_Line>
+<ksj:TourismResource_Point gml:id="FL04_0000">
+	<ksj:turismResorceName>お遍路さんのお接待</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>郷土景観</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00000"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0001">
+	<ksj:turismResorceName>阿波踊</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>年中行事</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00001"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0002">
+	<ksj:turismResorceName>アスティとくしま</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市山城町東浜傍示1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00002"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0003">
+	<ksj:turismResorceName>あるでよ徳島</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市新町橋2-20</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00003"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0004">
+	<ksj:turismResorceName>あわぎんホール</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市藍場町2ー14</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00004"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0005">
+	<ksj:turismResorceName>サンピアゴルフクラブ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市入田町安都真215-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00005"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0006">
+	<ksj:turismResorceName>とくしまマラソン</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00006"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0007">
+	<ksj:turismResorceName>とくしまマルシェ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00007"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0008">
+	<ksj:turismResorceName>とくしま動物園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市渋野町入道22-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00008"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0009">
+	<ksj:turismResorceName>はな・はるフェスタ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00009"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0010">
+	<ksj:turismResorceName>ひょうたん島周遊船</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市南内町2</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00010"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0011">
+	<ksj:turismResorceName>マチ☆アソビ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00011"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0012">
+	<ksj:turismResorceName>モラエス館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市眉山町茂助ケ原1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00012"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0013">
+	<ksj:turismResorceName>阿波おどり会館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市新町橋2-20</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00013"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0014">
+	<ksj:turismResorceName>阿波の狸まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00014"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0015">
+	<ksj:turismResorceName>小松海水浴場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00015"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0016">
+	<ksj:turismResorceName>蔵本公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市庄町1-76-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00016"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0017">
+	<ksj:turismResorceName>中央武道館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市徳島町城内6</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00017"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0018">
+	<ksj:turismResorceName>徳島のえびす祭り</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00018"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0019">
+	<ksj:turismResorceName>徳島わくわく日曜市</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00019"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0020">
+	<ksj:turismResorceName>徳島県立阿波十郎兵衛屋敷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市川内町宮島本浦184</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00020"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0021">
+	<ksj:turismResorceName>徳島県立文学書道館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市中前川町2-22-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00021"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0022">
+	<ksj:turismResorceName>徳島市阿波おどり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00022"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0023">
+	<ksj:turismResorceName>徳島市立徳島城博物館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市徳島町城内1-8</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00023"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0024">
+	<ksj:turismResorceName>眉山ロープウェイ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市新町橋2-20</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00024"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0025">
+	<ksj:turismResorceName>文化の森総合公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>徳島市八万町向寺山</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00025"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0026">
+	<ksj:turismResorceName>大塚国際美術館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>博物館・美術館</ksj:turismResorceKindName>
+	<ksj:address>鳴門市鳴門町土佐泊浦字福池65-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00026"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0027">
+	<ksj:turismResorceName>鳴門の渦潮</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>自然現象</ksj:turismResorceKindName>
+	<ksj:address>鳴門市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00027"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0028">
+	<ksj:turismResorceName>うずしお汽船</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市鳴門町土佐泊浦字福池65-63</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00028"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0029">
+	<ksj:turismResorceName>グランディ鳴門ゴルフクラブ３６</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市北灘町折野字上三津167-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00029"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0030">
+	<ksj:turismResorceName>バルトの庭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町桧字野神ノ北22-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00030"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0031">
+	<ksj:turismResorceName>渦の道</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市鳴門町土佐泊浦字福池65</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00031"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0032">
+	<ksj:turismResorceName>賀川豊彦記念館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町桧字東山田50-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00032"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0033">
+	<ksj:turismResorceName>大谷焼窯まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00033"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0034">
+	<ksj:turismResorceName>大麻比古神社</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町板東字広塚13</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00034"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0035">
+	<ksj:turismResorceName>大鳴門橋架橋記念館エディ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市鳴門町土佐泊浦字福池65</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00035"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0036">
+	<ksj:turismResorceName>道の駅「第九の里」物産館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町桧字東山田53</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00036"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0037">
+	<ksj:turismResorceName>鳴門・大塚スポーツパーク</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市撫養町立岩字四枚61</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00037"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0038">
+	<ksj:turismResorceName>鳴門ウチノ海総合公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市鳴門町高島字北679</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00038"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0039">
+	<ksj:turismResorceName>鳴門カントリークラブ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市瀬戸町北泊字北泊529-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00039"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0040">
+	<ksj:turismResorceName>鳴門渦まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00040"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0041">
+	<ksj:turismResorceName>鳴門観光汽船</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市鳴門町土佐泊浦字大毛264-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00041"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0042">
+	<ksj:turismResorceName>鳴門市ドイツ館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町桧字東山田55-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00042"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0043">
+	<ksj:turismResorceName>鳴門市阿波おどり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00043"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0044">
+	<ksj:turismResorceName>鳴門市納涼花火大会</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00044"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0045">
+	<ksj:turismResorceName>霊山寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36202</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>鳴門市大麻町板東字塚鼻126</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00045"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0046">
+	<ksj:turismResorceName>ＪＡあいさい緑地（和田島緑地）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市和田島町字松田新田165-20</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00046"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0047">
+	<ksj:turismResorceName>こまつしまうまいもん祭り＆海鮮朝市</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00047"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0048">
+	<ksj:turismResorceName>みはらしの丘・あいさい広場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市立江町炭屋ヶ谷47-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00048"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0049">
+	<ksj:turismResorceName>沖神社祭（元根井花火大会）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00049"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0050">
+	<ksj:turismResorceName>小松島みなと交流センターｋｏｃｏｌｏ（小松島みなとオアシス）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市小松島町字新港19</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00050"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0051">
+	<ksj:turismResorceName>小松島港まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00051"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0052">
+	<ksj:turismResorceName>長楽苑温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市中田町字東山7-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00052"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0053">
+	<ksj:turismResorceName>立江寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市立江町若松13</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00053"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0054">
+	<ksj:turismResorceName>和田島ちりめんの店</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>小松島市和田島町字西浜手10-33</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00054"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0055">
+	<ksj:turismResorceName>Ｊパワ-＆よんでんＷａンダーランド</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市福井町舟端1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00055"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0056">
+	<ksj:turismResorceName>お松大権現</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市加茂町不け63</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00056"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0057">
+	<ksj:turismResorceName>かもだ岬温泉保養センタ-</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市椿町船瀬60-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00057"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0058">
+	<ksj:turismResorceName>コート・ベール徳島ゴルフクラブ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市那賀川町みどり台1-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00058"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0059">
+	<ksj:turismResorceName>スポーツ総合センター</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市七見町下川田100-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00059"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0060">
+	<ksj:turismResorceName>ルミナスタウンプロジェクト</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00060"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0061">
+	<ksj:turismResorceName>阿南アグリスタジアム（南部総合運動公園内）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市桑野町桑野谷34-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00061"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0062">
+	<ksj:turismResorceName>阿南の夏まつり（市役所、富岡商店街一帯、浜の浦公園）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00062"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0063">
+	<ksj:turismResorceName>阿南光のまちステーションプラザ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市富岡町今福寺40-17</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00063"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0064">
+	<ksj:turismResorceName>阿南市科学センター</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市那賀川町上福井南川渕8-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00064"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0065">
+	<ksj:turismResorceName>阿南市那賀川道の駅（とれとれ市）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市那賀川町工地803</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00065"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0066">
+	<ksj:turismResorceName>阿南西部公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市中大野町南傍示</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00066"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0067">
+	<ksj:turismResorceName>加茂谷鯉まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00067"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0068">
+	<ksj:turismResorceName>活竹祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00068"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0069">
+	<ksj:turismResorceName>岩脇公園桜まつり（岩脇桜づつみ公園）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00069"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0070">
+	<ksj:turismResorceName>古庄・岩脇水神祭り</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00070"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0071">
+	<ksj:turismResorceName>淡島海水浴場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市畭町亀崎</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00071"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0072">
+	<ksj:turismResorceName>道の駅公方の郷なかがわ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市那賀川町工地803</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00072"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0073">
+	<ksj:turismResorceName>平等寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市新野町秋山177</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00073"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0074">
+	<ksj:turismResorceName>北の脇マリンフェスティバル</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00074"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0075">
+	<ksj:turismResorceName>北の脇海水浴場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市中林町原</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00075"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0076">
+	<ksj:turismResorceName>明谷梅林</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36204</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿南市長生町明谷</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00076"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0077">
+	<ksj:turismResorceName>バンブーパーク</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市山川町前川263-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00077"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0078">
+	<ksj:turismResorceName>ふいご温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市山川町久宗31-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00078"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0079">
+	<ksj:turismResorceName>ヘルスランド美郷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市美郷字奥丸75</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00079"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0080">
+	<ksj:turismResorceName>阿波和紙伝統産業会館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市山川町川東141</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00080"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0081">
+	<ksj:turismResorceName>鴨島温泉「鴨の湯」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市鴨島町飯尾415-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00081"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0082">
+	<ksj:turismResorceName>鴨島大菊人形・四国菊花品評会</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00082"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0083">
+	<ksj:turismResorceName>吉野川市阿波踊り大会</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00083"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0084">
+	<ksj:turismResorceName>五九郎まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00084"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0085">
+	<ksj:turismResorceName>船窪つつじ公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市山川町奥野井387-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00085"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0086">
+	<ksj:turismResorceName>藤井寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市鴨島町飯尾1525</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00086"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0087">
+	<ksj:turismResorceName>納涼花火大会</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00087"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0088">
+	<ksj:turismResorceName>梅の花まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00088"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0089">
+	<ksj:turismResorceName>美郷ほたるまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市美郷</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00089"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0090">
+	<ksj:turismResorceName>美郷ほたる館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市美郷字宗田82-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00090"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0091">
+	<ksj:turismResorceName>美郷物産館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市美郷字峠463-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00091"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0092">
+	<ksj:turismResorceName>保養センター上桜温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36205</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>吉野川市川島町桑村607-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00092"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0093">
+	<ksj:turismResorceName>Ｊクラッシックゴルフクラブ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町秋月字明月176-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00093"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0094">
+	<ksj:turismResorceName>タカガワ西徳島ゴルフ倶楽部</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市阿波町北山10</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00094"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0095">
+	<ksj:turismResorceName>やねこじき・大名行列</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00095"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0096">
+	<ksj:turismResorceName>阿波の土柱</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市阿波町桜ノ岡</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00096"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0097">
+	<ksj:turismResorceName>奥宮川内自然公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町宮川内</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00097"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0098">
+	<ksj:turismResorceName>吉野ウォーターパーク</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市吉野町西条</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00098"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0099">
+	<ksj:turismResorceName>金清温泉　白鳥荘</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市市場町尾開字日吉415-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00099"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0100">
+	<ksj:turismResorceName>九番札所　法輪寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町土成字田中198-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00100"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0101">
+	<ksj:turismResorceName>御所たらいうどん</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町宮川内</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00101"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0102">
+	<ksj:turismResorceName>七番札所　十楽寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町高尾字法教田58</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00102"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0103">
+	<ksj:turismResorceName>十番札所　切幡寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市市場町切幡字観音129</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00103"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0104">
+	<ksj:turismResorceName>天然温泉　御所の郷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町吉田字梨木原1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00104"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0105">
+	<ksj:turismResorceName>土柱休養村温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市阿波町北正広205</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00105"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0106">
+	<ksj:turismResorceName>道の駅「どなり」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町宮川内字平間28-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00106"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0107">
+	<ksj:turismResorceName>八番札所　熊谷寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町土成字前田185</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00107"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0108">
+	<ksj:turismResorceName>緑の丘スポーツ公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36206</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>阿波市土成町土成字北原1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00108"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0109">
+	<ksj:turismResorceName>あんみつ館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市脇町大字北庄551-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00109"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0110">
+	<ksj:turismResorceName>うだつの町並み</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市脇町大字脇町</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00110"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0111">
+	<ksj:turismResorceName>ブルーヴィラあなぶき</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市穴吹町口山字丸山1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00111"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0112">
+	<ksj:turismResorceName>リバーサイドしでの家</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市穴吹町口山字仕出原74</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00112"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0113">
+	<ksj:turismResorceName>夏子いなか市</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市脇町字西俣名2585-11</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00113"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0114">
+	<ksj:turismResorceName>穴吹川</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00114"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0115">
+	<ksj:turismResorceName>四国カントリークラブ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市穴吹町穴吹字岡ノ上200</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00115"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0116">
+	<ksj:turismResorceName>四国三郎の郷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市美馬町字境目39-10</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00116"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0117">
+	<ksj:turismResorceName>太陽マーケット</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市美馬町字道の上44-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00117"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0118">
+	<ksj:turismResorceName>美馬産直市ふれあい</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市美馬町字鍵掛62-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00118"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0119">
+	<ksj:turismResorceName>美馬市花火大会</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市脇町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00119"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0120">
+	<ksj:turismResorceName>假屋崎省吾うだつをいける</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36207</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美馬市脇町大字脇町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00120"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0121">
+	<ksj:turismResorceName>イカワＸパーク</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市秋田県井川町西井川1916-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00121"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0122">
+	<ksj:turismResorceName>いやしの温泉郷ホテル三嶺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市東祖谷菅生28</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00122"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0123">
+	<ksj:turismResorceName>さまちの湯あわの抄</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市池田町白地本名165-6</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00123"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0124">
+	<ksj:turismResorceName>ラフティング</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00124"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0125">
+	<ksj:turismResorceName>リバーステーションＷｅｓｔＷｅｓｔ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市山城町西宇1468-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00125"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0126">
+	<ksj:turismResorceName>レオマ高原ゴルフ場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市山城町大和川田中</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00126"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0127">
+	<ksj:turismResorceName>井川スキー場腕山</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市秋田県井川町井内東519-91</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00127"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0128">
+	<ksj:turismResorceName>雲辺寺ロープウェイ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市池田町白地763-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00128"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0129">
+	<ksj:turismResorceName>塩塚高原キャンプ場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市山城町平野205</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00129"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0130">
+	<ksj:turismResorceName>奥祖谷観光周遊モノレール</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市東祖谷菅生28</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00130"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0131">
+	<ksj:turismResorceName>奥祖谷二重かずら橋</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市東祖谷名頃</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00131"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0132">
+	<ksj:turismResorceName>剣山</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市東祖谷見ノ越</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00132"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0133">
+	<ksj:turismResorceName>剣山登山リフト</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市東祖谷菅生見の越</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00133"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0134">
+	<ksj:turismResorceName>三好市ふれあい紅葉　センター紅葉温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市三野町加茂野宮1467</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00134"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0135">
+	<ksj:turismResorceName>松尾川温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市池田町松尾黒川2-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00135"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0136">
+	<ksj:turismResorceName>祖谷のかずら橋</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市西祖谷山村善徳</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00136"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0137">
+	<ksj:turismResorceName>祖谷ふれあい公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市西祖谷山村字尾井ノ内</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00137"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0138">
+	<ksj:turismResorceName>祖谷秘境の湯</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市西祖谷山村尾井ノ内391</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00138"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0139">
+	<ksj:turismResorceName>祖谷平家まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00139"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0140">
+	<ksj:turismResorceName>大歩危温泉サンリバー大歩危</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市山城町西宇大歩危1259-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00140"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0141">
+	<ksj:turismResorceName>大歩危峡観光遊覧船</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市山城町西宇1520</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00141"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0142">
+	<ksj:turismResorceName>池田阿波踊り</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00142"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0143">
+	<ksj:turismResorceName>湯元新祖谷温泉　ホテルかずら橋</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市西祖谷山村善徳33-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00143"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0144">
+	<ksj:turismResorceName>道の駅三野</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市三野町太刀野1910-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00144"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0145">
+	<ksj:turismResorceName>道の駅大歩危</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市山城町上名1553-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00145"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0146">
+	<ksj:turismResorceName>箸蔵寺ロープウェイ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市池田町洲津藤ノ井559-14</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00146"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0147">
+	<ksj:turismResorceName>平家屋敷民族資料館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市西祖谷山村東西岡46</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00147"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0148">
+	<ksj:turismResorceName>和の宿ホテル祖谷温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>三好市池田町松尾367-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00148"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0149">
+	<ksj:turismResorceName>ＪＡよってネ市</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36301</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>勝浦町大字生名字太田45-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00149"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0150">
+	<ksj:turismResorceName>阿波勝浦ビッグひな祭り</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36301</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>勝浦町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00150"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0151">
+	<ksj:turismResorceName>道の駅ひなの里かつうら</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36301</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>勝浦町大字生名字月ノ瀬4-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00151"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0152">
+	<ksj:turismResorceName>いっきゅう茶屋</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36302</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上勝町福原字下日浦76-12</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00152"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0153">
+	<ksj:turismResorceName>月ヶ谷温泉交流施設（キャンプ場込み）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36302</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上勝町福原平間71-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00153"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0154">
+	<ksj:turismResorceName>佐那河内いきものふれあいの里</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36321</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>佐那河内村上字大川原</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00154"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0155">
+	<ksj:turismResorceName>大川原高原</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36321</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>佐那河内村大川原</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00155"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0156">
+	<ksj:turismResorceName>徳園寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36321</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>佐那河内村下字壁ケ獄</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00156"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0157">
+	<ksj:turismResorceName>ほなけん石井イルミネーション</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36341</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>石井町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00157"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0158">
+	<ksj:turismResorceName>桜まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36341</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>石井町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00158"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0159">
+	<ksj:turismResorceName>石井町ふじっこちゃん冬まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36341</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>石井町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00159"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0160">
+	<ksj:turismResorceName>石井町納涼夏祭り</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36341</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>石井町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00160"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0161">
+	<ksj:turismResorceName>藤まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36341</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>石井町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00161"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0162">
+	<ksj:turismResorceName>タカガワ東徳島ゴルフ倶楽部</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町阿野字歯ノ辻499</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00162"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0163">
+	<ksj:turismResorceName>阿川梅の里　梅まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00163"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0164">
+	<ksj:turismResorceName>雨乞の滝</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町神領字谷</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00164"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0165">
+	<ksj:turismResorceName>岳人の森シャクナゲまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町上分土須峠</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00165"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0166">
+	<ksj:turismResorceName>焼山寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町下分字地中318</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00166"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0167">
+	<ksj:turismResorceName>神山温泉いやしの湯</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町神領本上角</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00167"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0168">
+	<ksj:turismResorceName>神山温泉まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00168"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0169">
+	<ksj:turismResorceName>神山森林公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町阿野字大地459-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00169"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0170">
+	<ksj:turismResorceName>道の駅　温泉の里神山</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町神領字西上角</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00170"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0171">
+	<ksj:turismResorceName>明王寺しだれ桜まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36342</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>神山町下分字西寺</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00171"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0172">
+	<ksj:turismResorceName>エキサイティングサマーインワジキ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00172"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0173">
+	<ksj:turismResorceName>ビーバー館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町長安</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00173"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0174">
+	<ksj:turismResorceName>もみじ川温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町大久保字西納野4-7</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00174"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0175">
+	<ksj:turismResorceName>よいしょきとうむら</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町木頭出原字ヨコマチ23-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00175"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0176">
+	<ksj:turismResorceName>高の瀬峡レストハウス平の里</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町木頭北川字たいら48</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00176"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0177">
+	<ksj:turismResorceName>四季美谷温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町横谷夏切3-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00177"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0178">
+	<ksj:turismResorceName>相生森林美術館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町横石大板34</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00178"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0179">
+	<ksj:turismResorceName>相生森林文化公園　あいあいらんど</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町横石字大板53-19</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00179"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0180">
+	<ksj:turismResorceName>太龍寺ロープウェイ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町田野76</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00180"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0181">
+	<ksj:turismResorceName>道の駅「わじき」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町中山字関ヶ原34-56</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00181"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0182">
+	<ksj:turismResorceName>道の駅「鷲の里」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町和食郷田野62</ksj:address>
+	<ksj:tourismResourceCategoryCode>6</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00182"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0183">
+	<ksj:turismResorceName>農産物直売所　あいおい</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町大久保字西納野</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00183"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0184">
+	<ksj:turismResorceName>木沢もみじ祭り</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36368</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>那賀町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00184"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0185">
+	<ksj:turismResorceName>モラスコむぎ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町灘下浜辺198-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00185"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0186">
+	<ksj:turismResorceName>出羽島</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町牟岐字出羽島</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00186"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0187">
+	<ksj:turismResorceName>上善の湯　鬼ヶ岩屋温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町橘140</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00187"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0188">
+	<ksj:turismResorceName>大島・津島</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00188"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0189">
+	<ksj:turismResorceName>内妻海岸</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町内妻</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00189"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0190">
+	<ksj:turismResorceName>不動山正観寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36383</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>牟岐町中村奥前158-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00190"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0191">
+	<ksj:turismResorceName>うみがめ博物館「カレッタ」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町日和佐浦370-4</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00191"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0192">
+	<ksj:turismResorceName>ぽっぽマリン</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町由岐</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00192"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0193">
+	<ksj:turismResorceName>田井の浜海水浴場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町田井</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00193"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0194">
+	<ksj:turismResorceName>道の駅日和佐</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町奥河内字寺前493-6</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00194"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0195">
+	<ksj:turismResorceName>日和佐うみがめまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00195"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0196">
+	<ksj:turismResorceName>薬王寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町奥河内字寺前285-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00196"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0197">
+	<ksj:turismResorceName>由岐伊勢エビまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36387</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>美波町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00197"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0198">
+	<ksj:turismResorceName>すぎのこ市場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町久保</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00198"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0199">
+	<ksj:turismResorceName>ふれあいの宿遊遊ＮＡＳＡ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町奥浦字鹿ケ谷58-3</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00199"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0200">
+	<ksj:turismResorceName>ホテルリビエラししくい</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町宍喰浦字松原226-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00200"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0201">
+	<ksj:turismResorceName>海陽町海洋自然博物館マリンジャム</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町宍喰浦字竹ヶ島28-45</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00201"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0202">
+	<ksj:turismResorceName>宍喰祇園祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町久保</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00202"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0203">
+	<ksj:turismResorceName>蛇王運動公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町浅川字西福良43</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00203"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0204">
+	<ksj:turismResorceName>大砂海水浴場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町浅川</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00204"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0205">
+	<ksj:turismResorceName>大里八幡神社大祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36388</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>海陽町大里</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00205"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0206">
+	<ksj:turismResorceName>スカイフェスタ松茂</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36401</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>松茂町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00206"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0207">
+	<ksj:turismResorceName>とくとくターミナル</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36401</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>松茂町中喜来字前原東四番越14-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00207"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0208">
+	<ksj:turismResorceName>月見ヶ丘海水浴場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36401</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>松茂町</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00208"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0209">
+	<ksj:turismResorceName>月見ヶ丘海浜公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36401</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>松茂町豊岡字山ノ手42</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00209"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0210">
+	<ksj:turismResorceName>松茂町歴史民俗資料館・人形浄瑠璃芝居資料館</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36401</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>松茂町広島字四番越11-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00210"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0211">
+	<ksj:turismResorceName>徳島県立防災センター</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36402</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>北島町鯛浜字大西165</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00211"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0212">
+	<ksj:turismResorceName>北島チューリップフェア</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36402</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>北島町中村字日開野51-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00212"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0213">
+	<ksj:turismResorceName>あいずみ秋のバラまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>藍住町矢上字原263-88</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00213"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0214">
+	<ksj:turismResorceName>あいずみ春のバラまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>藍住町矢上字原263-88</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00214"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0215">
+	<ksj:turismResorceName>あいずみ商工会納涼祭</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>藍住町奥野字矢上前32-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00215"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0216">
+	<ksj:turismResorceName>藍住町歴史館「藍の館」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>藍住町徳命字前須西172</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00216"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0217">
+	<ksj:turismResorceName>あさん地球フェスタｉｎいたの</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00217"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0218">
+	<ksj:turismResorceName>あすたむらんど徳島</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町那東キビガ谷</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00218"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0219">
+	<ksj:turismResorceName>あせび温泉やすらぎの郷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町大坂字椋木原30-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00219"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0220">
+	<ksj:turismResorceName>ふれあい市アグリ板野</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町川端字惣徳田70</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00220"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0221">
+	<ksj:turismResorceName>五番札所　地蔵寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町羅漢字林東5</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00221"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0222">
+	<ksj:turismResorceName>三番札所　金泉寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町大寺字亀山下66</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00222"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0223">
+	<ksj:turismResorceName>四番札所　大日寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町黒谷字居内5</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00223"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0224">
+	<ksj:turismResorceName>大塚製薬（株）徳島板野工場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36404</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>板野町松谷</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00224"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0225">
+	<ksj:turismResorceName>吉墅川温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町椎本字四宮西388</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00225"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0226">
+	<ksj:turismResorceName>御所カントリークラブ</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町引野安楽寺谷90-10</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00226"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0227">
+	<ksj:turismResorceName>上板町ファミリースポーツ公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町七條天王7</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00227"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0228">
+	<ksj:turismResorceName>上板日曜市</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町泉谷</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00228"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0229">
+	<ksj:turismResorceName>大山寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町神宅大山14</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00229"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0230">
+	<ksj:turismResorceName>六番札所　安楽寺</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36405</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>上板町引野字寺の西北8</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00230"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0231">
+	<ksj:turismResorceName>旧永井家庄屋屋敷</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町貞光字西浦37</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00231"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0232">
+	<ksj:turismResorceName>剣山木綿麻温泉</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町貞光字長瀬127-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>3</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00232"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0233">
+	<ksj:turismResorceName>貞光パークゴルフ場</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町貞光字大須賀11-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00233"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0234">
+	<ksj:turismResorceName>土釜</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町一宇</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00234"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0235">
+	<ksj:turismResorceName>道の駅「貞光ゆうゆう館」</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町貞光字大須賀11-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00235"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0236">
+	<ksj:turismResorceName>二層うだつの町並み</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町貞光</ksj:address>
+	<ksj:tourismResourceCategoryCode>2</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00236"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0237">
+	<ksj:turismResorceName>土々呂の滝</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36468</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>つるぎ町半田字猿飼472-2</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00237"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0238">
+	<ksj:turismResorceName>オアシスまつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00238"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0239">
+	<ksj:turismResorceName>オアシス阿波おどり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00239"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0240">
+	<ksj:turismResorceName>吉野川ハイウェイオアシス</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町</ksj:address>
+	<ksj:tourismResourceCategoryCode>5</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00240"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0241">
+	<ksj:turismResorceName>吉野川ハイウェイオアシスＧＷイベント</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00241"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0242">
+	<ksj:turismResorceName>桜まつり</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町</ksj:address>
+	<ksj:tourismResourceCategoryCode>1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00242"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0243">
+	<ksj:turismResorceName>水辺の楽校ぶぶるパークみかも</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町西庄字横手1</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00243"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0244">
+	<ksj:turismResorceName>美濃田の淵周辺施設</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">36</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">36489</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>‐</ksj:turismResorceKindName>
+	<ksj:address>東みよし町</ksj:address>
+	<ksj:tourismResourceCategoryCode>4</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00244"/>
+</ksj:TourismResource_Point>
+</ksj:Dataset>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ksj:Dataset gml:id="P12Dataset" xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app/KsjAppSchema-P12-v2_1.xsd">
+<gml:description>国土数値情報 観光資源（面） インスタンス文書</gml:description>
+<!-- データ提供範囲 -->
+<gml:boundedBy>
+	<gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+		<gml:lowerCorner>20.0 123.0</gml:lowerCorner>
+		<gml:upperCorner>46.0 154.0</gml:upperCorner>
+		<gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+		<gml:endPosition indeterminatePosition="unknown"/>
+	</gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Surface gml:id="pa_00000_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00000_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00001_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00001_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Curve gml:id="pc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.18418278 133.80939669
+34.18417583 133.80930483
+34.18406847 133.80931878
+34.18405436 133.80923550
+34.18392075 133.80924936
+34.18393478 133.80936133
+34.18390375 133.80936697
+34.18390897 133.80941211
+34.18392475 133.80954789
+34.18409900 133.80951122
+34.18408492 133.80941069
+34.18418278 133.80939669
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00001_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+34.33205842 134.04603256
+34.33206717 134.04588794
+34.33206786 134.04587708
+34.33207253 134.04585744
+34.33210097 134.04582611
+34.33215208 134.04576667
+34.33219256 134.04570847
+34.33222175 134.04565617
+34.33225119 134.04557747
+34.33228017 134.04549331
+34.33230336 134.04542325
+34.33230753 134.04539894
+34.33231617 134.04532467
+34.33232711 134.04519292
+34.33232903 134.04517064
+34.33232861 134.04502122
+34.33232747 134.04460672
+34.33232817 134.04441186
+34.33232850 134.04425253
+34.33232867 134.04424050
+34.33232903 134.04421156
+34.33233206 134.04396936
+34.33233269 134.04391969
+34.33233033 134.04351736
+34.33232867 134.04324433
+34.33232689 134.04319325
+34.33232442 134.04312075
+34.33232411 134.04311183
+34.33232364 134.04309758
+34.33231428 134.04293106
+34.33231136 134.04289722
+34.33230922 134.04287189
+34.33230064 134.04285381
+34.33229492 134.04284147
+34.33227981 134.04283497
+34.33225900 134.04282808
+34.33222553 134.04283494
+34.33219308 134.04283550
+34.33218567 134.04283653
+34.33196580 134.04277913
+34.33189564 134.04275387
+34.33180303 134.04274265
+34.33100883 134.04274265
+34.33067488 134.04266126
+34.32968008 134.04222289
+34.32963381 134.04220172
+34.32866274 134.04168185
+34.32832597 134.04152750
+34.32803412 134.04141806
+34.32782645 134.04136754
+34.32760194 134.04133106
+34.32701978 134.04136631
+34.32691592 134.04203364
+34.32678547 134.04280403
+34.32677847 134.04284256
+34.32669197 134.04331767
+34.32656292 134.04411858
+34.32653656 134.04433175
+34.32694989 134.04455761
+34.32719003 134.04468881
+34.32761275 134.04491942
+34.32764567 134.04493747
+34.32772831 134.04498256
+34.32774575 134.04499158
+34.32811067 134.04518097
+34.32819594 134.04522356
+34.32849308 134.04537175
+34.32855317 134.04540128
+34.32879853 134.04551436
+34.32904228 134.04562364
+34.32913097 134.04566322
+34.32914969 134.04567203
+34.32936178 134.04576872
+34.32944264 134.04580642
+34.32957456 134.04586486
+34.32968294 134.04591403
+34.32968856 134.04591656
+34.32971661 134.04592897
+34.32977222 134.04595361
+34.32982631 134.04597994
+34.32990917 134.04601428
+34.32997172 134.04606183
+34.33009178 134.04610597
+34.33012428 134.04611728
+34.33072761 134.04617867
+34.33085339 134.04617581
+34.33119469 134.04617692
+34.33129969 134.04616608
+34.33153867 134.04613144
+34.33161219 134.04610333
+34.33164406 134.04609117
+34.33194697 134.04605281
+34.33198017 134.04604822
+34.33205842 134.04603256
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Point gml:id="n00000">
+	<gml:pos>34.34012000 134.04329900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00001">
+	<gml:pos>34.34012000 134.04329900</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00002">
+	<gml:pos>34.33048100 134.04442700</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00003">
+	<gml:pos>34.34278800 134.04657400</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00004">
+	<gml:pos>34.35384396 133.82857776</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00005">
+	<gml:pos>34.44485718 133.99052579</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00006">
+	<gml:pos>34.18401431 133.80938886</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00007">
+	<gml:pos>34.18462300 133.81804100</gml:pos>
+</gml:Point>
+<ksj:TourismResource_Surface gml:id="FL02_0000">
+	<ksj:turismResorceName>金刀比羅宮</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>琴平町892-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00000_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0001">
+	<ksj:turismResorceName>栗林公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>庭園・公園</ksj:turismResorceKindName>
+	<ksj:address>高松市栗林町1-20-16</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00001_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Point gml:id="FL04_0000">
+	<ksj:turismResorceName>瀬戸内海の多島景観</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>海岸・岬</ksj:turismResorceKindName>
+	<ksj:address>高松市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00000"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0001">
+	<ksj:turismResorceName>お遍路さんのお接待</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>郷土景観</ksj:turismResorceKindName>
+	<ksj:address>高松市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00001"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0002">
+	<ksj:turismResorceName>栗林公園</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>庭園・公園</ksj:turismResorceKindName>
+	<ksj:address>高松市栗林町1-20-16</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00002"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0003">
+	<ksj:turismResorceName>香川の讃岐うどん</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37201</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>食</ksj:turismResorceKindName>
+	<ksj:address>高松市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00003"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0004">
+	<ksj:turismResorceName>瀬戸大橋</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37203</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>建造物</ksj:turismResorceKindName>
+	<ksj:address>坂出市</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00004"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0005">
+	<ksj:turismResorceName>ベネッセアートサイト</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37364</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>博物館・美術館</ksj:turismResorceKindName>
+	<ksj:address>直島町</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00005"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0006">
+	<ksj:turismResorceName>金刀比羅宮</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>琴平町892-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00006"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0007">
+	<ksj:turismResorceName>旧金毘羅大芝居（金丸座）で上演される歌舞伎</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">37</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">37403</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>芸能・興行・イベント</ksj:turismResorceKindName>
+	<ksj:address>琴平町字川西乙1241</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00007"/>
+</ksj:TourismResource_Point>
+</ksj:Dataset>

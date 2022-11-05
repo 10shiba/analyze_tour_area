@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ksj:Dataset gml:id="P12Dataset" xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app/KsjAppSchema-P12-v2_1.xsd">
+<gml:description>国土数値情報 観光資源（面） インスタンス文書</gml:description>
+<!-- データ提供範囲 -->
+<gml:boundedBy>
+	<gml:EnvelopeWithTimePeriod srsName="JGD2000 / (B, L)" frame="GC / JST">
+		<gml:lowerCorner>20.0 123.0</gml:lowerCorner>
+		<gml:upperCorner>46.0 154.0</gml:upperCorner>
+		<gml:beginPosition calendarEraName="西暦">1900</gml:beginPosition>
+		<gml:endPosition indeterminatePosition="unknown"/>
+	</gml:EnvelopeWithTimePeriod>
+</gml:boundedBy>
+<gml:Surface gml:id="pa_00000_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00000_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Surface gml:id="pa_00001_0">
+	<gml:patches>
+		<gml:PolygonPatch>
+			<gml:exterior>
+				<gml:Ring>
+					<gml:curveMember xlink:href="#pc_00001_0"/>
+				</gml:Ring>
+			</gml:exterior>
+		</gml:PolygonPatch>
+	</gml:patches>
+</gml:Surface>
+<gml:Curve gml:id="pc_00000_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+35.12816497 136.90719383
+35.12774183 136.90695203
+35.12765031 136.90697183
+35.12757911 136.90698722
+35.12739414 136.90702742
+35.12639975 136.90724047
+35.12634064 136.90725306
+35.12615431 136.90729303
+35.12609925 136.90730539
+35.12555508 136.90740181
+35.12516767 136.90745889
+35.12507800 136.90747211
+35.12507772 136.90747211
+35.12500000 136.90748114
+35.12483206 136.90750064
+35.12482492 136.90750100
+35.12463169 136.90751203
+35.12335939 136.90755656
+35.12324578 136.90754869
+35.12293406 136.90754375
+35.12291731 136.90755586
+35.12258500 136.90850906
+35.12254467 136.90862469
+35.12231753 136.90927617
+35.12233058 136.90930847
+35.12234050 136.90930736
+35.12245622 136.90934483
+35.12277642 136.90951203
+35.12302947 136.90967978
+35.12329742 136.90974925
+35.12345697 136.90975008
+35.12347831 136.90981847
+35.12359203 136.91018239
+35.12342908 136.91121469
+35.12396439 136.91132164
+35.12407522 136.91134378
+35.12411717 136.91135200
+35.12416056 136.91136053
+35.12435772 136.91138008
+35.12448889 136.91137858
+35.12457822 136.91137217
+35.12473386 136.91135236
+35.12477539 136.91134686
+35.12500000 136.91128011
+35.12520822 136.91119058
+35.12528467 136.91115514
+35.12625936 136.91070694
+35.12675344 136.91045128
+35.12722864 136.91020542
+35.12761600 136.90999378
+35.12836033 136.90957481
+35.12866725 136.90943767
+35.12855747 136.90901889
+35.12866728 136.90897666
+35.12869672 136.90833333
+35.12816497 136.90719383
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Curve gml:id="pc_00001_0">
+	<gml:segments>
+		<gml:LineStringSegment>
+			<gml:posList>
+35.18233536 136.90497569
+35.18243792 136.90495692
+35.18255506 136.90493547
+35.18282997 136.90488506
+35.18292008 136.90486853
+35.18333333 136.90478678
+35.18370733 136.90471272
+35.18392811 136.90467403
+35.18450192 136.90456753
+35.18467189 136.90454272
+35.18640878 136.90437300
+35.18644272 136.90431094
+35.18644553 136.90427647
+35.18645150 136.90420103
+35.18632739 136.90417792
+35.18629647 136.90416869
+35.18628236 136.90414831
+35.18628839 136.90398050
+35.18633217 136.90375758
+35.18638303 136.90352308
+35.18652356 136.90356139
+35.18654322 136.90344319
+35.18662361 136.90309408
+35.18664344 136.90302067
+35.18667131 136.90293153
+35.18669969 136.90284986
+35.18674550 136.90273264
+35.18679578 136.90260303
+35.18693403 136.90225461
+35.18703611 136.90201853
+35.18711081 136.90184481
+35.18717861 136.90168261
+35.18724600 136.90150319
+35.18730475 136.90132239
+35.18734092 136.90121014
+35.18735156 136.90117694
+35.18738153 136.90106583
+35.18742550 136.90089594
+35.18745781 136.90075319
+35.18747847 136.90059283
+35.18748681 136.90049297
+35.18749056 136.90042808
+35.18749269 136.90034353
+35.18749508 136.90028025
+35.18749367 136.90021075
+35.18749203 136.90015861
+35.18748339 136.90000000
+35.18745449 136.89946918
+35.18744908 136.89936981
+35.18743011 136.89897258
+35.18741189 136.89860942
+35.18739978 136.89835250
+35.18738964 136.89816258
+35.18738244 136.89805281
+35.18737500 136.89794158
+35.18736644 136.89782831
+35.18734544 136.89758164
+35.18730439 136.89712258
+35.18726803 136.89670456
+35.18723172 136.89630917
+35.18721081 136.89606392
+35.18721081 136.89606392
+35.18721081 136.89606392
+35.18714400 136.89598400
+35.18699072 136.89600328
+35.18662475 136.89604994
+35.18628600 136.89609367
+35.18618775 136.89610642
+35.18606836 136.89612153
+35.18568364 136.89617100
+35.18512447 136.89624544
+35.18473469 136.89629481
+35.18471683 136.89620156
+35.18465981 136.89590308
+35.18462017 136.89586719
+35.18445539 136.89586972
+35.18407503 136.89588997
+35.18348711 136.89594056
+35.18333333 136.89595633
+35.18312614 136.89591936
+35.18312256 136.89589586
+35.18311703 136.89587656
+35.18310878 136.89586156
+35.18309839 136.89584808
+35.18309081 136.89584647
+35.18308117 136.89584814
+35.18295061 136.89591006
+35.18292406 136.89597075
+35.18293100 136.89605725
+35.18294233 136.89619711
+35.18295906 136.89642356
+35.18298953 136.89686650
+35.18303494 136.89763539
+35.18305233 136.89807781
+35.18311647 136.89834717
+35.18322444 136.90004628
+35.18310547 136.90026044
+35.18288972 136.90028122
+35.18281997 136.90029881
+35.18281997 136.90029836
+35.18173144 136.90040369
+35.18171708 136.90043439
+35.18188803 136.90279336
+35.18194850 136.90365914
+35.18196233 136.90379733
+35.18197792 136.90392236
+35.18200742 136.90409156
+35.18212442 136.90462778
+35.18218433 136.90486483
+35.18233536 136.90497569
+			</gml:posList>
+		</gml:LineStringSegment>
+	</gml:segments>
+</gml:Curve>
+<gml:Point gml:id="n00000">
+	<gml:pos>35.12489986 136.90941379</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00001">
+	<gml:pos>35.18536854 136.89971384</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00002">
+	<gml:pos>35.17838686 136.71869842</gml:pos>
+</gml:Point>
+<gml:Point gml:id="n00003">
+	<gml:pos>35.34057567 136.98996811</gml:pos>
+</gml:Point>
+<ksj:TourismResource_Surface gml:id="FL02_0000">
+	<ksj:turismResorceName>熱田神宮</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">23</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">23109</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>名古屋市熱田区神宮1-1-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00000_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Surface gml:id="FL02_0001">
+	<ksj:turismResorceName>名古屋城</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">23</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">23106</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>城跡・城郭・宮殿</ksj:turismResorceKindName>
+	<ksj:address>名古屋市中区本丸1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:bounds xlink:href="#pa_00001_0"/>
+</ksj:TourismResource_Surface>
+<ksj:TourismResource_Point gml:id="FL04_0000">
+	<ksj:turismResorceName>熱田神宮</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">23</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">23109</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>神社・寺院・教会</ksj:turismResorceKindName>
+	<ksj:address>名古屋市熱田区神宮1-1-1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00000"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0001">
+	<ksj:turismResorceName>名古屋城</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">23</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">23106</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>城跡・城郭・宮殿</ksj:turismResorceKindName>
+	<ksj:address>名古屋市中区本丸1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00001"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0002">
+	<ksj:turismResorceName>尾張津島天王祭り（津島祭り）</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">23</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">23208</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>年中行事</ksj:turismResorceKindName>
+	<ksj:address>津島市神明町1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00002"/>
+</ksj:TourismResource_Point>
+<ksj:TourismResource_Point gml:id="FL04_0003">
+	<ksj:turismResorceName>博物館明治村</ksj:turismResorceName>
+	<ksj:prefectureCode codeSpace="PrefectureCode.xml">23</ksj:prefectureCode>
+	<ksj:administartiveAreaCode codeSpace="AdministartiveAreaCode.xml">23215</ksj:administartiveAreaCode>
+	<ksj:turismResorceKindName>テーマ・公園テーマ施設</ksj:turismResorceKindName>
+	<ksj:address>犬山市内山1</ksj:address>
+	<ksj:tourismResourceCategoryCode>-1</ksj:tourismResourceCategoryCode>
+	<ksj:position xlink:href="#n00003"/>
+</ksj:TourismResource_Point>
+</ksj:Dataset>
