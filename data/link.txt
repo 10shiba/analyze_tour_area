@@ -1,0 +1,10 @@
+links 
+
+全国見るなび
+https://www.nihon-kankou.or.jp
+
+高度数値情報ラウンロードサービス
+https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P12-v2_2.html
+
+美しき日本　全国観光資源台帳
+https://tabi.jtb.or.jp
