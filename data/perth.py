@@ -19,26 +19,27 @@ for filename in list_japan_data:
         else:
             list_japan_data_xml.append(filename)
 
+error_list = []
+list_info = []
 
 for filename in list_japan_data_xml:
-    print(filename)
-    tree = ET.parse('./japan_data/' + filename)
-    root = tree.getroot()
-    print('tag#########')
-    print(root.tag)
-    print('attr#########')
-    print(root.attrib)
-    print('#'*100)
-    print(len(root))
-    list_tag = []
-    for child in root:
-        if '{http://nlftp.mlit.go.jp/ksj/schemas/ksj-app}TourismResource_Point' == child.tag:
-            print(child.attrib, child.attrib)
-            for a in child:
-                print(a.tag)
-                break
-                
+    try:
+        tree = ET.parse('./japan_data/' + filename)
+        root = tree.getroot()
+        list_tag = []
+        for child in root:
+            if '{http://nlftp.mlit.go.jp/ksj/schemas/ksj-app}TourismResource_Point' == child.tag:
+                list_info_tmp = [x.text for x in child]
+                list_info.append(list_info_tmp)
+
+    except:
+        print('Error')
+        error_list.append(filename)
+
+print('error_list : ', error_list)
+df = pd.DataFrame(list_info)
+df.to_csv('sample.csv')
+                    
         # print(child.tag)
         # print('child#tag#########')
         # print(child.attrib)
-    break
